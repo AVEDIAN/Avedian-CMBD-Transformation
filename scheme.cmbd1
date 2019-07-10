@@ -1,0 +1,2 @@
+HosId;HosEntCod;CodPreSgs;CodSucur;Descripcion;HisCliId;EpiNum;TipoDocumento;NumeroDeDocumento;FechaNacimiento;Sexo;FechaIngreso;FechaEgreso;ViaDeIngreso;EstadoALaSalida;DiagnosticosPOAs;FechaIntervencionQuirurgica;TiempoQuirurgico;TiempoVentilacionMecanica;MedicosTratantes;Especialidades;EventoAdversoCalificado;EpiImpFac;EpiImpCos
+1;1;text;text;text;text;text;text;text;1970-01-01 00:00:00;text;1970-01-01 00:00:00;1970-01-01 00:00:00;1;1;text;1970-01-01 00:00:00;1.5;1.5;text;text;1;1.5;1.5
