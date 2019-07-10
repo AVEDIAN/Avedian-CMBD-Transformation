@@ -1,6 +1,6 @@
 # CMBD-Transformation
 Script sh for AVEDIAN data platform.
-Takes old CMBD format as input and leaves new files for AVEDIAN data platform.
+Takes old CMBD format as input and leaves new files ready to ingest in AVEDIAN data platform.
 
 ## Dependencies
 - awk
