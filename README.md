@@ -1,6 +1,44 @@
 # CMBD-Transformation
 Script sh for AVEDIAN data platform
 
-## Brew
-''brew install dos2unix
-brew install pv''
+## Dependencies
+- awk
+- gsub
+- dos2unix
+- pv
+- git
+
+
+## Mac OS
+```bash
+#Install Brew from https://brew.sh
+brew install dos2unix
+brew install pv
+git clone https://github.com/n0v4c4n3/CMBD-Transformation
+cd CMBD-Transformation
+sh Conversion.sh
+```
+
+## Ubuntu 
+```bash
+sudo apt-get install dos2unix pv
+git clone https://github.com/n0v4c4n3/CMBD-Transformation
+cd CMBD-Transformation
+sh Conversion.sh
+```
+
+## Windows 
+```bash
+#Enable WSL on Windows 10 
+#Install Ubuntu from Microsoft Store
+#Log in to Ubuntu terminal
+sudo apt-get install dos2unix pv
+git clone https://github.com/n0v4c4n3/CMBD-Transformation
+cd CMBD-Transformation
+sh Conversion.sh
+```
+
+## Links
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- [Brew.io](https://brew.sh)
+- [Git](https://git-scm.com/downloads)
