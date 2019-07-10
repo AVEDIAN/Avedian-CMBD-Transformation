@@ -1,5 +1,6 @@
 # CMBD-Transformation
-Script sh for AVEDIAN data platform
+Script sh for AVEDIAN data platform.
+Takes old CMBD format as input and leaves new files for data.avedian.info 
 
 ## Dependencies
 - awk
@@ -39,7 +40,7 @@ sh Conversion.sh
 ```
 
 ## Usage
-![alt](https://link)
+![Demo](https://github.com/n0v4c4n3/CMBD-Transformation/blob/master/Demo%20conversion.gif?raw=true)
 
 ## Links
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
