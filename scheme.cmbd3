@@ -1,2 +1,2 @@
 HosId;HosEntCod;HisCliId;EpiNum;FinId;FinNom;CenCosId;CenCosNom;TipoPrestacion;CodigoPrestacion;DescripcionDePrestacion;Presentacion;Cantidad;CostoDePractica;ValorFacturado;MontoIngresadoPorPrestacion
-1;1;text;text;text;text;text;text;text;text;text;text;1.5;1.5;1.5;1.5
+text;1;text;text;text;text;text;text;text;text;text;text;1.5;1.5;1.5;1.5

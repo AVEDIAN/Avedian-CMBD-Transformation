@@ -7,10 +7,10 @@ echo ""
 read -p "Please input the CMBD1 filename: " cmbd1
 echo "------------------------------" 
 echo "Starting CMBD1 " $cmbd1 " conversion... 🏁"
-cmbd1_header="HosId;HosEntCod;CodPreSgs;CodSucur;Descripcion;HisCliId;EpiNum;TipoDocumento;NumeroDeDocumento;FechaNacimiento;Sexo;FechaIngreso;FechaEgreso;ViaDeIngreso;EstadoALaSalida;DiagnosticosPOAs;FechaIntervencionQuirurgica;TiempoQuirurgico;TiempoVentilacionMecanica;MedicosTratantes;Especialidades;EventoAdversoCalificado;EpiImpFac;EpiImpCos"
+cmbd1_header="HosId;HosEntCod;CodPreSgs;CodSucur;Descripcion;HisCliId;EpiNum;FechaNacimiento;Sexo;FechaIngreso;FechaEgreso;ViaDeIngreso;EstadoALaSalida;DiagnosticosPOAs;FechaIntervencionQuirurgica;TiempoQuirurgico;TiempoVentilacionMecanica;MedicosTratantes;Especialidades;EventoAdversoCalificado;EpiImpFac;EpiImpCos"
 dos2unix -n $cmbd1 step1.cmbd1
 echo "Step 1 done"
-awk '{printf "%s;%s\n", "7;5",$0}' step1.cmbd1 > step2.cmbd1
+awk '{printf "%s;%s\n", "6;3",$0}' step1.cmbd1 > step2.cmbd1
 echo "Step 2 done"
 awk '{printf "%s%s\n", $0, ";0;0"}' step2.cmbd1 > step3.cmbd1
 echo "Step 3 done"
@@ -40,7 +40,9 @@ awk 'BEGIN{FS=OFS=";"} {if($12){split($12,datetime," "); split(datetime[1],date,
 echo "Step 15 done"
 awk 'BEGIN{FS=OFS=";"} {if($13){split($13,datetime," "); split(datetime[1],date,"/"); time = datetime[2] ? datetime[2] : "00:00:00"; $13=date[3]"-"date[2]"-"date[1]" " time}; print $0}' step15.cmbd1 > step16.cmbd1
 echo "Step 16 done"
-awk 'BEGIN{FS=OFS=";"} {if($17){split($17,datetime," "); split(datetime[1],date,"/"); time = datetime[2] ? datetime[2] : "00:00:00"; $17=date[3]"-"date[2]"-"date[1]" " time}; print $0}' step16.cmbd1 > upload.cmbd1
+awk 'BEGIN{FS=OFS=";"} {if($17){split($17,datetime," "); split(datetime[1],date,"/"); time = datetime[2] ? datetime[2] : "00:00:00"; $17=date[3]"-"date[2]"-"date[1]" " time}; print $0}' step16.cmbd1 > step17.cmbd1
+echo "Step 17 done"
+cut -f 1-7,10- -d ';' step17.cmbd1 > upload.cmbd1
 sed -i "" "1s/.*/$cmbd1_header/" upload.cmbd1
 echo "Final step done"
 echo "End of CMBD1 conversion, the file for upload is: upload.cmbd1 🚀"
@@ -53,7 +55,7 @@ echo "Starting CMBD2 " $cmbd2 " conversion... 🏁"
 cmbd2_header="HosId;HosEntCod;HisCliId;EpiNum;FinId;FinNom;PolId;PolNom;EsAseguradorPrincipal;RegAfi;ValFac;EpiCosAsi;MonIng"
 dos2unix -n $cmbd2 step1.cmbd2
 echo "Step 1 done"
-awk '{printf "%s;%s\n", "7;5",$0}' step1.cmbd2 > step2.cmbd2
+awk '{printf "%s;%s\n", "6;3",$0}' step1.cmbd2 > step2.cmbd2
 echo "Step 2 done"
 awk 'BEGIN{FS=OFS=";"} {$6 = $6 ";";print $0}' step2.cmbd2 > step3.cmbd2
 echo "Step 3 done"
@@ -77,7 +79,7 @@ echo "Starting CMBD3 " $cmbd3 " conversion... 🏁"
 cmbd3_header="HosId;HosEntCod;HisCliId;EpiNum;FinId;FinNom;CenCosId;CenCosNom;TipoPrestacion;CodigoPrestacion;DescripcionDePrestacion;Presentacion;Cantidad;CostoDePractica;ValorFacturado;MontoIngresadoPorPrestacion"
 dos2unix -n $cmbd3 step1.cmbd3
 echo "Step 1 done"
-awk '{printf "%s;%s\n", "7;5",$0}' step1.cmbd3 > step2.cmbd3
+awk '{printf "%s;%s\n", "6;3",$0}' step1.cmbd3 > step2.cmbd3
 echo "Step 2 done"
 awk 'BEGIN{FS=OFS=";"} {$6 = $6 ";";print $0}' step2.cmbd3 > step3.cmbd3
 echo "Step 3 done"

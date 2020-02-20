@@ -1,2 +1,2 @@
-HosId;HosEntCod;HisCliId;EpiNum;FinId;FinNom;PolId;PolNom;EsAseguradorPrincipal;RegAfi;ValFac;EpiCosAsi;MonIng
-1;1;text;text;text;text;text;text;1;1;1.5;1.5;1.5
+HosId;HosEntCod;HisCliId;EpiNum;FinId;FinNom;PolId;PolNom;EpiPagOrd;RegAfi;EpiPagImpFac;EpiPagImpCos;MonIng
+text;1;text;text;text;text;text;text;1;1;1.5;1.5;1.5
