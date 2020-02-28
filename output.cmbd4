@@ -1,0 +1,4 @@
+HosId;HosEntCod;HisCliId;EpiNum;Diagnosticos;Procedimientos;HistorialCompleto;HistorialCompletoFormato
+1;1;1036264276;3897173;fisura,dolor de cuello,diarrea,fiebre;;Texto del historial completo;TXT
+1;1;1020404773;3901875;calambre,sangrado,resfrio;Procedimiento 1,Procedimiento 2,procedimiento 3;Texto del historial completo 2;TXT
+1;1;1023656544;3907042;desgarro,fisura de columna;Procedimiento 3,Procedimiento 4,Procedimiento 5;Texto del historial completo 3;TXT
