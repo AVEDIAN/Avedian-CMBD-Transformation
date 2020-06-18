@@ -22,7 +22,7 @@ awk 'BEGIN{FS=OFS=";"} {$19="("$19","$20"),("$21","$22"),("$23","$24"),("$25","$
 echo "Step 6 done"
 cut -f 1-19,51- -d ';' step6.cmbd1 > step7.cmbd1
 echo "Step 7 done"
-sed 's/\([[:digit:]]\)\,\([[:digit:]]\)/\1.\2/g' step7.cmbd1 > step8.cmbd1
+sed -i 's/\([[:digit:]]\)\,\([[:digit:]]\)/\1.\2/g' step7.cmbd1 > step8.cmbd1
 echo "Step 8 done"
 awk 'BEGIN{FS=OFS=";"} {$21 += $25 + $29;$22 = 0; print $0}' step8.cmbd1 > step9.cmbd1
 echo "Step 9 done"
