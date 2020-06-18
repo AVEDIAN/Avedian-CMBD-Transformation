@@ -43,7 +43,7 @@ echo "Step 16 done"
 awk 'BEGIN{FS=OFS=";"} {if($17){split($17,datetime," "); split(datetime[1],date,"/"); time = datetime[2] ? datetime[2] : "00:00:00"; $17=date[3]"-"date[2]"-"date[1]" " time}; print $0}' step16.cmbd1 > step17.cmbd1
 echo "Step 17 done"
 cut -f 1-7,10- -d ';' step17.cmbd1 > upload.cmbd1
-sed -i "" "1s/.*/$cmbd1_header/" upload.cmbd1
+sed -i "1s/.*/$cmbd1_header/" upload.cmbd1
 echo "Final step done"
 echo "End of CMBD1 conversion, the file for upload is: upload.cmbd1 🚀"
 echo "------------------------------" 
@@ -67,7 +67,7 @@ cut -f 1-10,12- -d ';' step5.cmbd2 > step6.cmbd2
 echo "Step 6 done"
 awk 'BEGIN{FS=OFS=";"} {$10=($10=="CONTRIBUTIVO"?1:$10);$10=($10=="SUBSIDIADO"?2:$10);$10=($10=="REGIMEN_EXCEPCION"?3:$10);$10=($10=="PARTICULAR"?4:$10);$10=($10=="SOAT"?5:$10);$10=($10=="RIESGOS"?6:$10);$10=($10=="PREPAGA"?7:$10);$10=($10=="COMPLEMENTARIO"?8:$10);$10=($10=="PRIVADA"?9:$10);$10=($10=="OTRO"?10:$10); print $0}' step6.cmbd2 > upload.cmbd2
 echo "Step 7 done"
-sed -i "" "1s/.*/$cmbd2_header/" upload.cmbd2
+sed -i "1s/.*/$cmbd2_header/" upload.cmbd2
 echo "Final step done"
 echo "End of CMBD2 conversion, the file for upload is: upload.cmbd2 🚀"
 echo "------------------------------"
@@ -87,6 +87,6 @@ awk 'BEGIN{FS=OFS=";"} {$8 = $8 ";";print $0}' step3.cmbd3 > step4.cmbd3
 echo "Step 4 done"
 sed 's/\([[:digit:]]\)\,\([[:digit:]]\)/\1.\2/g' step4.cmbd3 > upload.cmbd3
 echo "Step 5 done"
-sed -i "" "1s/.*/$cmbd3_header/" upload.cmbd3
+sed -i "1s/.*/$cmbd3_header/" upload.cmbd3
 echo "Final step done"
 echo "End of CMBD3 conversion, the file for upload is: upload.cmbd3 🚀"
