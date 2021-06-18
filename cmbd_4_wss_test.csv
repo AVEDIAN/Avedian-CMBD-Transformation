@@ -1,0 +1,4 @@
+Organization_Identifier;Organization_Name;Claim_Encounter_Subject_Patient_Identifier;Claim_Encounter_Identifier;Claim_Diagnosis_DiagnosisCodeableConcept_Code;Claim_Procedure_ProcedureCodeableConcept_Code;EpisodeOfCare_Data;EpisodeOfCare_Format
+1;1;1036264XXX;3897173;fisura,dolor de cuello,diarrea,fiebre;;Texto del historial completo;TXT
+1;1;1020404XXX;3901875;calambre,sangrado,resfrio;Procedimiento 1,Procedimiento 2,procedimiento 3;Texto del historial completo 2;TXT
+1;1;1023656XXX;3907042;desgarro,fisura de columna;Procedimiento 3,Procedimiento 4,Procedimiento 5;Texto del historial completo 3;TXT
