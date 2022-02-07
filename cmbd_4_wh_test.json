@@ -1,0 +1,32 @@
+[
+  {
+    "Organization_Identifier": 1,
+    "Organization_PartOf": 1,
+    "Encounter_Subject_Patient_Identifier": 1036264276,
+    "Encounter_Identifier": 3897173,
+    "Encounter_Diagnosis_Note": "fisura,dolor de cuello,diarrea,fiebre",
+    "Encounter_Procedure_Note": "",
+    "EpisodeOfCare_Text": "Texto del historial completo",
+    "EpisodeOfCare_Format": "TXT"
+  },
+  {
+    "Organization_Identifier": 1,
+    "Organization_PartOf": 1,
+    "Encounter_Subject_Patient_Identifier": 1020404773,
+    "Encounter_Identifier": 3901875,
+    "Encounter_Diagnosis_Note": "calambre,sangrado,resfrio",
+    "Encounter_Procedure_Note": "Procedimiento 1,Procedimiento 2,procedimiento 3",
+    "EpisodeOfCare_Text": "Texto del historial completo 2",
+    "EpisodeOfCare_Format": "TXT"
+  },
+  {
+    "Organization_Identifier": 1,
+    "Organization_PartOf": 1,
+    "Encounter_Subject_Patient_Identifier": 1023656544,
+    "Encounter_Identifier": 3907042,
+    "Encounter_Diagnosis_Note": "desgarro,fisura de columna",
+    "Encounter_Procedure_Note": "Procedimiento 3,Procedimiento 4,Procedimiento 5",
+    "EpisodeOfCare_Text": "Texto del historial completo 3",
+    "EpisodeOfCare_Format": "TXT"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Organization_Identifier": 1,
+    "Organization_Name": "text",
+    "Encounter_Subject_Patient_Identifier": "text",
+    "Encounter_Identifier": "text",
+    "Encounter_Diagnosis_Note": "text",
+    "Encounter_Procedure_Note": "text",
+    "EpisodeOfCare_Text": "text",
+    "EpisodeOfCare_Format": "text"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Organization_Identifier": "text",
+    "Organization_PartOf": 1,
+    "Claim_Patient_Identifier": "text",
+    "Claim_Encounter_Identifier": "text",
+    "Claim_Payee_Party": "text",
+    "Claim_Payee_Party_Name": "text",
+    "Claim_Insurance_Coverage_SubscriberId": "text",
+    "Claim_Insurance_Coverage_Class_Name": "text",
+    "Claim_Use": 1,
+    "Claim_Insurance_Coverage_Type": 1,
+    "Claim_Item_Net": 1.5,
+    "Claim_Item_UnitPrice": 1.5,
+    "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 1.5
+  }
+]

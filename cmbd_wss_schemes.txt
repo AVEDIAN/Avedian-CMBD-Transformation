@@ -2,7 +2,8 @@
 Organization_Identifier;
 Organization_Name;
 Claim_Patient_Identifier;
-Claim_Insurance_Coverage_Period;
+Claim_Insurance_Coverage_Period_Start;
+Claim_Insurance_Coverage_Period_End;
 Claim_Patient_Name;
 Claim_Patient_Family;
 Claim_Patient_Identifier_Tax;
@@ -15,10 +16,13 @@ Claim_Patient_Address_City;
 Claim_Patient_Address_City_Text;
 Claim_Insurance_Coverage_SubscriberId;
 Claim_Insurance_Coverage_Class_Name;
+Claim_Payee_Type;
 Claim_Total;
 Claim_Encounter_Diagnosis_Condition_CM;
 Claim_Encounter_ReasonReference_Identifier;
-Claim_Encounter_ReasonReference_Identifier_Type
+Claim_Encounter_ReasonReference_Identifier_Type;
+Claim_Encounter_Diagnosis_Condition_OnSet;
+Claim_Encounter_Diagnosis_Condition_Abatement
 
 //CMBD2
 Organization_Identifier;
