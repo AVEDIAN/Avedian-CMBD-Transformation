@@ -1,4 +1,4 @@
-Organization_Identifier;Organization_PartOf;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Payee_Party;Claim_Payee_Party_Name;Claim_Insurance_Coverage_SubscriberId;Claim_Insurance_Coverage_Class_Name;Claim_Use;Claim_Insurance_Coverage_Type;Claim_Item_Net;Claim_Item_UnitPrice;Claim_Insurance_ClaimResponse_Item_Adjudication_Value
+Organization_Identifier;Organization_PartOf;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Payee_Party;Claim_Payee_Party_Name;Claim_Insurance_Coverage_SubscriberId;Claim_Insurance_Coverage_Class_Name;Claim_Use;Claim_Insurance_Coverage_Type;Claim_Item_Net;Claim_Item_UnitPrice;Claim_Response_Item_Adjudication_Value
 1;1;138722;138722-12;26;EPS SANITAS SA;;;1;1;27947617;19325891.242;a
 1;1;136758;136758-8;02;NUEVA EPS SA;;;1;1;4278672;2132324.55;0
 1;1;194751;194751-7;26;EPS SANITAS SA;;;1;1;3404426;2685047.92;b

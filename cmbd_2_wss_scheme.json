@@ -5,7 +5,7 @@
     "Claim_Patient_Identifier": "text",
     "Claim_Encounter_Identifier": "text",
     "Claim_Insurance_PreAuthRef": "text",
-    "Invoice_Identifier": "text",
+    "Claim_Response_Payment_Identifier": "text",
     "Claim_Encounter_Class": 1,
     "Claim_Provider_Identifier": "text",
     "Claim_Provider_Name": "text",
@@ -24,6 +24,6 @@
     "Claim_Procedure_Age_Surgical_Ventilation": 1.5,
     "Claim_Item_Net": 1.5,
     "Claim_Items_UnitPrice": 1.5,
-    "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 1.5
+    "Claim_Response_Item_Adjudication_Value": 1.5
   }
 ]

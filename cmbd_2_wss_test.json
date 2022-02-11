@@ -5,7 +5,7 @@
       "Claim_Patient_Identifier": "2-10822XXX-00-0",
       "Claim_Encounter_Identifier": "1560377526XXX",
       "Claim_Insurance_PreAuthRef": 1560377526,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903021965,
       "Claim_Provider_Name": "SANCHEZ",
@@ -24,7 +24,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 126.6806,
       "Claim_Items_UnitPrice": 126.6806,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -32,7 +32,7 @@
       "Claim_Patient_Identifier": "2-26382XXX-02-9",
       "Claim_Encounter_Identifier": "1760395417XXX",
       "Claim_Insurance_PreAuthRef": 1760395417,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -51,7 +51,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 74287.05,
       "Claim_Items_UnitPrice": 74287.05,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -59,7 +59,7 @@
       "Claim_Patient_Identifier": "1-06423XXX-01-1",
       "Claim_Encounter_Identifier": "1760392059XXX",
       "Claim_Insurance_PreAuthRef": 1760392059,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903213578,
       "Claim_Provider_Name": "FERRI",
@@ -78,7 +78,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 169.2264,
       "Claim_Items_UnitPrice": 169.2264,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -86,7 +86,7 @@
       "Claim_Patient_Identifier": "2-17043XXX-00-6",
       "Claim_Encounter_Identifier": "1560365724XXX",
       "Claim_Insurance_PreAuthRef": 1560365724,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903219610,
       "Claim_Provider_Name": "CENTRO MEDICO",
@@ -105,7 +105,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -113,7 +113,7 @@
       "Claim_Patient_Identifier": "2-04412XXX-00-6",
       "Claim_Encounter_Identifier": "1460293198XXX",
       "Claim_Insurance_PreAuthRef": 1460293198,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903009163,
       "Claim_Provider_Name": "CORDOBA VELEZ",
@@ -132,7 +132,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -140,7 +140,7 @@
       "Claim_Patient_Identifier": "2-13374XXX-00-5",
       "Claim_Encounter_Identifier": "1560365124XXX",
       "Claim_Insurance_PreAuthRef": 1560365124,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217420,
       "Claim_Provider_Name": "TORRES",
@@ -159,7 +159,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -167,7 +167,7 @@
       "Claim_Patient_Identifier": "2-17530XXX-00-1",
       "Claim_Encounter_Identifier": "1560343024XXX",
       "Claim_Insurance_PreAuthRef": 1560343024,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903200257,
       "Claim_Provider_Name": "NININ",
@@ -186,7 +186,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 59957.007,
       "Claim_Items_UnitPrice": 59957.007,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -194,7 +194,7 @@
       "Claim_Patient_Identifier": "2-05455XXX-00-8",
       "Claim_Encounter_Identifier": "1560361965XXX",
       "Claim_Insurance_PreAuthRef": 1560361965,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903202665,
       "Claim_Provider_Name": "PUEYRREDON",
@@ -213,7 +213,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -221,7 +221,7 @@
       "Claim_Patient_Identifier": "2-04127XXX-00-1",
       "Claim_Encounter_Identifier": "1760399685XXX",
       "Claim_Insurance_PreAuthRef": 1760399685,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903024661,
       "Claim_Provider_Name": "BOYOCCHI",
@@ -240,7 +240,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 7431.696,
       "Claim_Items_UnitPrice": 7431.696,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -248,7 +248,7 @@
       "Claim_Patient_Identifier": "2-10252XXX-00-4",
       "Claim_Encounter_Identifier": "1760399608XXX",
       "Claim_Insurance_PreAuthRef": 1760399608,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -267,7 +267,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 27063.112,
       "Claim_Items_UnitPrice": 27063.112,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -275,7 +275,7 @@
       "Claim_Patient_Identifier": "2-10417XXX-00-6",
       "Claim_Encounter_Identifier": "1560377523XXX",
       "Claim_Insurance_PreAuthRef": 1560377523,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217154,
       "Claim_Provider_Name": "GROSSO",
@@ -294,7 +294,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 125.426,
       "Claim_Items_UnitPrice": 125.426,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -302,7 +302,7 @@
       "Claim_Patient_Identifier": "1-08107XXX-00-0",
       "Claim_Encounter_Identifier": "1760399690XXX",
       "Claim_Insurance_PreAuthRef": 1760399690,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216669,
       "Claim_Provider_Name": "SARMIENTO IV",
@@ -321,7 +321,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 13245.8696,
       "Claim_Items_UnitPrice": 13245.8696,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -329,7 +329,7 @@
       "Claim_Patient_Identifier": "1-24609XXX-01-3",
       "Claim_Encounter_Identifier": "1760399892XXX",
       "Claim_Insurance_PreAuthRef": 1760399892,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -348,7 +348,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 29484.0576,
       "Claim_Items_UnitPrice": 29484.0576,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -356,7 +356,7 @@
       "Claim_Patient_Identifier": "2-14665XXX-00-3",
       "Claim_Encounter_Identifier": "1760416126XXX",
       "Claim_Insurance_PreAuthRef": 1760416126,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903206224,
       "Claim_Provider_Name": "FARMA VIDA I",
@@ -375,7 +375,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1105.3691,
       "Claim_Items_UnitPrice": 1105.3691,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -383,7 +383,7 @@
       "Claim_Patient_Identifier": "2-10906XXX-00-8",
       "Claim_Encounter_Identifier": "1560381144XXX",
       "Claim_Insurance_PreAuthRef": 1560381144,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500002,
       "Claim_Provider_Name": "UEPC Unión Empleados Educadores de Córdoba",
@@ -402,7 +402,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -410,7 +410,7 @@
       "Claim_Patient_Identifier": "2-17599XXX-00-3",
       "Claim_Encounter_Identifier": "1560371387XXX",
       "Claim_Insurance_PreAuthRef": 1560371387,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903205787,
       "Claim_Provider_Name": "DE LA ESTACION",
@@ -429,7 +429,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -437,7 +437,7 @@
       "Claim_Patient_Identifier": "2-02834XXX-00-1",
       "Claim_Encounter_Identifier": "1760398272XXX",
       "Claim_Insurance_PreAuthRef": 1760398272,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -456,7 +456,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -464,7 +464,7 @@
       "Claim_Patient_Identifier": "2-13539XXX-05-8",
       "Claim_Encounter_Identifier": "1460296852XXX",
       "Claim_Insurance_PreAuthRef": 1460296852,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903017481,
       "Claim_Provider_Name": "SILVANA MARTINEZ",
@@ -483,7 +483,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 581.9016,
       "Claim_Items_UnitPrice": 581.9016,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -491,7 +491,7 @@
       "Claim_Patient_Identifier": "1-07759XXX-00-5",
       "Claim_Encounter_Identifier": "1760399681XXX",
       "Claim_Insurance_PreAuthRef": 1760399681,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903202712,
       "Claim_Provider_Name": "SARMIENTO I",
@@ -510,7 +510,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 454.8504,
       "Claim_Items_UnitPrice": 454.8504,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -518,7 +518,7 @@
       "Claim_Patient_Identifier": "1-06428XXX-01-9",
       "Claim_Encounter_Identifier": "1360261672XXX",
       "Claim_Insurance_PreAuthRef": 1360261672,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903022928,
       "Claim_Provider_Name": "DEZOTTI",
@@ -537,7 +537,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1342.558,
       "Claim_Items_UnitPrice": 1342.558,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -545,7 +545,7 @@
       "Claim_Patient_Identifier": "2-11585XXX-00-5",
       "Claim_Encounter_Identifier": "6014457961XXX",
       "Claim_Insurance_PreAuthRef": 6014457961,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217870,
       "Claim_Provider_Name": "FARM SOCIAL MARCOS JUAREZ",
@@ -564,7 +564,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -572,7 +572,7 @@
       "Claim_Patient_Identifier": "2-04870XXX-04-4",
       "Claim_Encounter_Identifier": "1560350384XXX",
       "Claim_Insurance_PreAuthRef": 1560350384,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -591,7 +591,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 69447.0672,
       "Claim_Items_UnitPrice": 69447.0672,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -599,7 +599,7 @@
       "Claim_Patient_Identifier": "2-23197XXX-04-0",
       "Claim_Encounter_Identifier": "1760400005XXX",
       "Claim_Insurance_PreAuthRef": 1760400005,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903224276,
       "Claim_Provider_Name": "FORTIN FARMA",
@@ -618,7 +618,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 29536.1064,
       "Claim_Items_UnitPrice": 29536.1064,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -626,7 +626,7 @@
       "Claim_Patient_Identifier": "1-12754XXX-00-7",
       "Claim_Encounter_Identifier": "1560386924XXX",
       "Claim_Insurance_PreAuthRef": 1560386924,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903208772,
       "Claim_Provider_Name": "DIAZ",
@@ -645,7 +645,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1479.5126,
       "Claim_Items_UnitPrice": 1479.5126,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -653,7 +653,7 @@
       "Claim_Patient_Identifier": "2-32216XXX-03-0",
       "Claim_Encounter_Identifier": "1760407997XXX",
       "Claim_Insurance_PreAuthRef": 1760407997,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903214604,
       "Claim_Provider_Name": "HOSPITAL PRIVADO",
@@ -672,7 +672,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1950.6072,
       "Claim_Items_UnitPrice": 1950.6072,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -680,7 +680,7 @@
       "Claim_Patient_Identifier": "1-27444XXX-02-9",
       "Claim_Encounter_Identifier": "1760403674XXX",
       "Claim_Insurance_PreAuthRef": 1760403674,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903206224,
       "Claim_Provider_Name": "FARMA VIDA I",
@@ -699,7 +699,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 4137.579,
       "Claim_Items_UnitPrice": 4137.579,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -707,7 +707,7 @@
       "Claim_Patient_Identifier": "1-12035XXX-01-8",
       "Claim_Encounter_Identifier": "1760399691XXX",
       "Claim_Insurance_PreAuthRef": 1760399691,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -726,7 +726,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 13245.8696,
       "Claim_Items_UnitPrice": 13245.8696,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -734,7 +734,7 @@
       "Claim_Patient_Identifier": "2-18053XXX-03-2",
       "Claim_Encounter_Identifier": "1760411780XXX",
       "Claim_Insurance_PreAuthRef": 1760411780,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903013634,
       "Claim_Provider_Name": "BOSIO SCORTICHINI",
@@ -753,7 +753,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 80579.876,
       "Claim_Items_UnitPrice": 80579.876,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -761,7 +761,7 @@
       "Claim_Patient_Identifier": "2-04126XXX-00-8",
       "Claim_Encounter_Identifier": "1760398277XXX",
       "Claim_Insurance_PreAuthRef": 1760398277,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -780,7 +780,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 67050.481,
       "Claim_Items_UnitPrice": 67050.481,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -788,7 +788,7 @@
       "Claim_Patient_Identifier": "2-35668XXX-03-9",
       "Claim_Encounter_Identifier": "1260232087XXX",
       "Claim_Insurance_PreAuthRef": 1260232087,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218260,
       "Claim_Provider_Name": "CRAVERO",
@@ -807,7 +807,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 12906.0648,
       "Claim_Items_UnitPrice": 12906.0648,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -815,7 +815,7 @@
       "Claim_Patient_Identifier": "2-10905XXX-00-3",
       "Claim_Encounter_Identifier": "1560377570XXX",
       "Claim_Insurance_PreAuthRef": 1560377570,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -834,7 +834,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 253.3612,
       "Claim_Items_UnitPrice": 253.3612,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -842,7 +842,7 @@
       "Claim_Patient_Identifier": "2-12724XXX-00-0",
       "Claim_Encounter_Identifier": "1760394219XXX",
       "Claim_Insurance_PreAuthRef": 1760394219,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500062,
       "Claim_Provider_Name": "SEP OLIVA",
@@ -861,7 +861,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -869,7 +869,7 @@
       "Claim_Patient_Identifier": "1-10772XXX-01-7",
       "Claim_Encounter_Identifier": "1560379091XXX",
       "Claim_Insurance_PreAuthRef": 1560379091,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903007867,
       "Claim_Provider_Name": "MARTOGLIO",
@@ -888,7 +888,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -896,7 +896,7 @@
       "Claim_Patient_Identifier": "1-13484XXX-00-4",
       "Claim_Encounter_Identifier": "1060157205XXX",
       "Claim_Insurance_PreAuthRef": 1060157205,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -915,7 +915,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 175.6644,
       "Claim_Items_UnitPrice": 175.6644,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -923,7 +923,7 @@
       "Claim_Patient_Identifier": "1-20076XXX-00-6",
       "Claim_Encounter_Identifier": "1760400760XXX",
       "Claim_Insurance_PreAuthRef": 1760400760,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223841,
       "Claim_Provider_Name": "HP FARMA COLON",
@@ -942,7 +942,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2593.2208,
       "Claim_Items_UnitPrice": 2593.2208,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -950,7 +950,7 @@
       "Claim_Patient_Identifier": "2-04510XXX-00-6",
       "Claim_Encounter_Identifier": "1560377568XXX",
       "Claim_Insurance_PreAuthRef": 1560377568,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218535,
       "Claim_Provider_Name": "MORA",
@@ -969,7 +969,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -977,7 +977,7 @@
       "Claim_Patient_Identifier": "2-13451XXX-00-1",
       "Claim_Encounter_Identifier": "1560361981XXX",
       "Claim_Insurance_PreAuthRef": 1560361981,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903225269,
       "Claim_Provider_Name": "ELLENA",
@@ -996,7 +996,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1004,7 +1004,7 @@
       "Claim_Patient_Identifier": "1-18676XXX-00-5",
       "Claim_Encounter_Identifier": "1560386659XXX",
       "Claim_Insurance_PreAuthRef": 1560386659,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1023,7 +1023,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 11081.2752,
       "Claim_Items_UnitPrice": 11081.2752,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1031,7 +1031,7 @@
       "Claim_Patient_Identifier": "1-06594XXX-01-6",
       "Claim_Encounter_Identifier": "1560379241XXX",
       "Claim_Insurance_PreAuthRef": 1560379241,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903007867,
       "Claim_Provider_Name": "MARTOGLIO",
@@ -1050,7 +1050,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1058,7 +1058,7 @@
       "Claim_Patient_Identifier": "2-11070XXX-00-0",
       "Claim_Encounter_Identifier": "1060177255XXX",
       "Claim_Insurance_PreAuthRef": 1060177255,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 936201031,
       "Claim_Provider_Name": "CAROLINA PEREZ",
@@ -1077,7 +1077,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 76806.6384,
       "Claim_Items_UnitPrice": 76806.6384,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1085,7 +1085,7 @@
       "Claim_Patient_Identifier": "2-23405XXX-02-8",
       "Claim_Encounter_Identifier": "1360267154XXX",
       "Claim_Insurance_PreAuthRef": 1360267154,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903219130,
       "Claim_Provider_Name": "GENERAL PAZ COLON",
@@ -1104,7 +1104,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1112,7 +1112,7 @@
       "Claim_Patient_Identifier": "1-08320XXX-00-7",
       "Claim_Encounter_Identifier": "1460273707XXX",
       "Claim_Insurance_PreAuthRef": 1460273707,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1131,7 +1131,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 74198.13,
       "Claim_Items_UnitPrice": 74198.13,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1139,7 +1139,7 @@
       "Claim_Patient_Identifier": "2-14365XXX-00-3",
       "Claim_Encounter_Identifier": "1760392231XXX",
       "Claim_Insurance_PreAuthRef": 1760392231,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223838,
       "Claim_Provider_Name": "HP FARMA RUTA 20",
@@ -1158,7 +1158,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1166,7 +1166,7 @@
       "Claim_Patient_Identifier": "1-23796XXX-00-7",
       "Claim_Encounter_Identifier": "1760400675XXX",
       "Claim_Insurance_PreAuthRef": 1760400675,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500003,
       "Claim_Provider_Name": "SUOEM Sindicato de Empleados Municipales",
@@ -1185,7 +1185,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1353.0096,
       "Claim_Items_UnitPrice": 1353.0096,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1193,7 +1193,7 @@
       "Claim_Patient_Identifier": "2-12773XXX-00-1",
       "Claim_Encounter_Identifier": "1560387263XXX",
       "Claim_Insurance_PreAuthRef": 1560387263,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -1212,7 +1212,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1220,7 +1220,7 @@
       "Claim_Patient_Identifier": "2-13858XXX-00-9",
       "Claim_Encounter_Identifier": "1760400001XXX",
       "Claim_Insurance_PreAuthRef": 1760400001,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -1239,7 +1239,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 11518.1528,
       "Claim_Items_UnitPrice": 11518.1528,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1247,7 +1247,7 @@
       "Claim_Patient_Identifier": "2-27285XXX-00-9",
       "Claim_Encounter_Identifier": "1560386921XXX",
       "Claim_Insurance_PreAuthRef": 1560386921,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903010585,
       "Claim_Provider_Name": "KAREHNKE",
@@ -1266,7 +1266,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1274,7 +1274,7 @@
       "Claim_Patient_Identifier": "1-25198XXX-02-1",
       "Claim_Encounter_Identifier": "1760407998XXX",
       "Claim_Insurance_PreAuthRef": 1760407998,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217696,
       "Claim_Provider_Name": "FARMALYS",
@@ -1293,7 +1293,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1313.4472,
       "Claim_Items_UnitPrice": 1313.4472,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1301,7 +1301,7 @@
       "Claim_Patient_Identifier": "2-14154XXX-00-1",
       "Claim_Encounter_Identifier": "1760399694XXX",
       "Claim_Insurance_PreAuthRef": 1760399694,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -1320,7 +1320,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 27063.112,
       "Claim_Items_UnitPrice": 27063.112,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1328,7 +1328,7 @@
       "Claim_Patient_Identifier": "2-10644XXX-00-0",
       "Claim_Encounter_Identifier": "1060160861XXX",
       "Claim_Insurance_PreAuthRef": 1060160861,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903106117,
       "Claim_Provider_Name": "SANTAMARIA",
@@ -1347,7 +1347,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1355,7 +1355,7 @@
       "Claim_Patient_Identifier": "2-11479XXX-00-5",
       "Claim_Encounter_Identifier": "1760400011XXX",
       "Claim_Insurance_PreAuthRef": 1760400011,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1374,7 +1374,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 4125.519,
       "Claim_Items_UnitPrice": 4125.519,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1382,7 +1382,7 @@
       "Claim_Patient_Identifier": "2-39933XXX-00-2",
       "Claim_Encounter_Identifier": "1460312431XXX",
       "Claim_Insurance_PreAuthRef": 1460312431,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223841,
       "Claim_Provider_Name": "HP FARMA COLON",
@@ -1401,7 +1401,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 67832.2197,
       "Claim_Items_UnitPrice": 67832.2197,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1409,7 +1409,7 @@
       "Claim_Patient_Identifier": "2-11560XXX-00-7",
       "Claim_Encounter_Identifier": "1560386682XXX",
       "Claim_Insurance_PreAuthRef": 1560386682,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1428,7 +1428,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 9190.2168,
       "Claim_Items_UnitPrice": 9190.2168,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1436,7 +1436,7 @@
       "Claim_Patient_Identifier": "1-06428XXX-01-9",
       "Claim_Encounter_Identifier": "1760399991XXX",
       "Claim_Insurance_PreAuthRef": 1760399991,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903022928,
       "Claim_Provider_Name": "DEZOTTI",
@@ -1455,7 +1455,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1680.4164,
       "Claim_Items_UnitPrice": 1680.4164,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1463,7 +1463,7 @@
       "Claim_Patient_Identifier": "1-26015XXX-00-4",
       "Claim_Encounter_Identifier": "1260229099XXX",
       "Claim_Insurance_PreAuthRef": 1260229099,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903009844,
       "Claim_Provider_Name": "ONGINI",
@@ -1482,7 +1482,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 14202.486,
       "Claim_Items_UnitPrice": 14202.486,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1490,7 +1490,7 @@
       "Claim_Patient_Identifier": "2-14665XXX-00-3",
       "Claim_Encounter_Identifier": "1760403668XXX",
       "Claim_Insurance_PreAuthRef": 1760403668,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903206224,
       "Claim_Provider_Name": "FARMA VIDA I",
@@ -1509,7 +1509,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 933.9836,
       "Claim_Items_UnitPrice": 933.9836,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1517,7 +1517,7 @@
       "Claim_Patient_Identifier": "2-24520XXX-04-6",
       "Claim_Encounter_Identifier": "1060159201XXX",
       "Claim_Insurance_PreAuthRef": 1060159201,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218365,
       "Claim_Provider_Name": "ASOC MUT GRAL CABRERA",
@@ -1536,7 +1536,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 3371.8584,
       "Claim_Items_UnitPrice": 3371.8584,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1544,7 +1544,7 @@
       "Claim_Patient_Identifier": "1-22170XXX-03-8",
       "Claim_Encounter_Identifier": "1760399615XXX",
       "Claim_Insurance_PreAuthRef": 1760399615,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -1563,7 +1563,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 27011.1664,
       "Claim_Items_UnitPrice": 27011.1664,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1571,7 +1571,7 @@
       "Claim_Patient_Identifier": "1-07856XXX-01-8",
       "Claim_Encounter_Identifier": "1560383573XXX",
       "Claim_Insurance_PreAuthRef": 1560383573,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903210224,
       "Claim_Provider_Name": "LEAL II",
@@ -1590,7 +1590,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 61605.9061,
       "Claim_Items_UnitPrice": 61605.9061,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1598,7 +1598,7 @@
       "Claim_Patient_Identifier": "1-08625XXX-00-0",
       "Claim_Encounter_Identifier": "1760392873XXX",
       "Claim_Insurance_PreAuthRef": 1760392873,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903012361,
       "Claim_Provider_Name": "RAMELLO",
@@ -1617,7 +1617,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1450.848,
       "Claim_Items_UnitPrice": 1450.848,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1625,7 +1625,7 @@
       "Claim_Patient_Identifier": "1-24653XXX-05-7",
       "Claim_Encounter_Identifier": "1560386660XXX",
       "Claim_Insurance_PreAuthRef": 1560386660,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1644,7 +1644,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 9190.2168,
       "Claim_Items_UnitPrice": 9190.2168,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1652,7 +1652,7 @@
       "Claim_Patient_Identifier": "2-34774XXX-04-2",
       "Claim_Encounter_Identifier": "1760400664XXX",
       "Claim_Insurance_PreAuthRef": 1760400664,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -1671,7 +1671,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 181.6076,
       "Claim_Items_UnitPrice": 181.6076,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1679,7 +1679,7 @@
       "Claim_Patient_Identifier": "2-26924XXX-00-1",
       "Claim_Encounter_Identifier": "1560370780XXX",
       "Claim_Insurance_PreAuthRef": 1560370780,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218521,
       "Claim_Provider_Name": "PLAZA",
@@ -1698,7 +1698,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1706,7 +1706,7 @@
       "Claim_Patient_Identifier": "1-06976XXX-00-5",
       "Claim_Encounter_Identifier": "1760391664XXX",
       "Claim_Insurance_PreAuthRef": 1760391664,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1725,7 +1725,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 75977.37,
       "Claim_Items_UnitPrice": 75977.37,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1733,7 +1733,7 @@
       "Claim_Patient_Identifier": "2-13858XXX-00-9",
       "Claim_Encounter_Identifier": "1760399694XXX",
       "Claim_Insurance_PreAuthRef": 1760399694,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -1752,7 +1752,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 140721.6856,
       "Claim_Items_UnitPrice": 140721.6856,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1760,7 +1760,7 @@
       "Claim_Patient_Identifier": "1-14333XXX-00-6",
       "Claim_Encounter_Identifier": "6009608743XXX",
       "Claim_Insurance_PreAuthRef": 6009608743,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1779,7 +1779,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 5540.6376,
       "Claim_Items_UnitPrice": 5540.6376,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1787,7 +1787,7 @@
       "Claim_Patient_Identifier": "1-12843XXX-00-9",
       "Claim_Encounter_Identifier": "1760408591XXX",
       "Claim_Insurance_PreAuthRef": 1760408591,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -1806,7 +1806,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 454.8504,
       "Claim_Items_UnitPrice": 454.8504,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1814,7 +1814,7 @@
       "Claim_Patient_Identifier": "2-06172XXX-00-5",
       "Claim_Encounter_Identifier": "1560386659XXX",
       "Claim_Insurance_PreAuthRef": 1560386659,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903211901,
       "Claim_Provider_Name": "CATALINA I",
@@ -1833,7 +1833,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 7581.6858,
       "Claim_Items_UnitPrice": 7581.6858,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1841,7 +1841,7 @@
       "Claim_Patient_Identifier": "2-21399XXX-00-9",
       "Claim_Encounter_Identifier": "1760398256XXX",
       "Claim_Insurance_PreAuthRef": 1760398256,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -1860,7 +1860,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1868,7 +1868,7 @@
       "Claim_Patient_Identifier": "1-17382XXX-09-3",
       "Claim_Encounter_Identifier": "1760411759XXX",
       "Claim_Insurance_PreAuthRef": 1760411759,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217931,
       "Claim_Provider_Name": "DEL HOSPITAL ITALIANO ROMA",
@@ -1887,7 +1887,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 35085.8232,
       "Claim_Items_UnitPrice": 35085.8232,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1895,7 +1895,7 @@
       "Claim_Patient_Identifier": "1-13688XXX-01-7",
       "Claim_Encounter_Identifier": "1560377570XXX",
       "Claim_Insurance_PreAuthRef": 1560377570,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903210224,
       "Claim_Provider_Name": "LEAL II",
@@ -1914,7 +1914,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 253.3612,
       "Claim_Items_UnitPrice": 253.3612,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1922,7 +1922,7 @@
       "Claim_Patient_Identifier": "1-24778XXX-03-7",
       "Claim_Encounter_Identifier": "1560386494XXX",
       "Claim_Insurance_PreAuthRef": 1560386494,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -1941,7 +1941,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 67832.2197,
       "Claim_Items_UnitPrice": 67832.2197,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1949,7 +1949,7 @@
       "Claim_Patient_Identifier": "2-05873XXX-00-0",
       "Claim_Encounter_Identifier": "1760391686XXX",
       "Claim_Insurance_PreAuthRef": 1760391686,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903219392,
       "Claim_Provider_Name": "GENERAL PAZ CENTRO",
@@ -1968,7 +1968,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -1976,7 +1976,7 @@
       "Claim_Patient_Identifier": "2-32216XXX-03-0",
       "Claim_Encounter_Identifier": "1760407998XXX",
       "Claim_Insurance_PreAuthRef": 1760407998,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903214604,
       "Claim_Provider_Name": "HOSPITAL PRIVADO",
@@ -1995,7 +1995,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2807.5012,
       "Claim_Items_UnitPrice": 2807.5012,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2003,7 +2003,7 @@
       "Claim_Patient_Identifier": "2-04852XXX-00-4",
       "Claim_Encounter_Identifier": "1560375474XXX",
       "Claim_Insurance_PreAuthRef": 1560375474,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903225408,
       "Claim_Provider_Name": "VIAMONTE",
@@ -2022,7 +2022,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2030,7 +2030,7 @@
       "Claim_Patient_Identifier": "2-04854XXX-00-3",
       "Claim_Encounter_Identifier": "1760394212XXX",
       "Claim_Insurance_PreAuthRef": 1760394212,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500002,
       "Claim_Provider_Name": "UEPC Unión Empleados Educadores de Córdoba",
@@ -2049,7 +2049,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2057,7 +2057,7 @@
       "Claim_Patient_Identifier": "2-16655XXX-04-1",
       "Claim_Encounter_Identifier": "1560389401XXX",
       "Claim_Insurance_PreAuthRef": 1560389401,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218658,
       "Claim_Provider_Name": "GENERAL PAZ LIBERTAD",
@@ -2076,7 +2076,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2709.9156,
       "Claim_Items_UnitPrice": 2709.9156,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2084,7 +2084,7 @@
       "Claim_Patient_Identifier": "2-17386XXX-03-9",
       "Claim_Encounter_Identifier": "1760399687XXX",
       "Claim_Insurance_PreAuthRef": 1760399687,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -2103,7 +2103,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 436.4262,
       "Claim_Items_UnitPrice": 436.4262,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2111,7 +2111,7 @@
       "Claim_Patient_Identifier": "1-10770XXX-00-8",
       "Claim_Encounter_Identifier": "1560386664XXX",
       "Claim_Insurance_PreAuthRef": 1560386664,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -2130,7 +2130,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 9190.2168,
       "Claim_Items_UnitPrice": 9190.2168,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2138,7 +2138,7 @@
       "Claim_Patient_Identifier": "2-11479XXX-00-5",
       "Claim_Encounter_Identifier": "1760399899XXX",
       "Claim_Insurance_PreAuthRef": 1760399899,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -2157,7 +2157,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 920291.6732,
       "Claim_Items_UnitPrice": 920291.6732,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2165,7 +2165,7 @@
       "Claim_Patient_Identifier": "1-07693XXX-00-7",
       "Claim_Encounter_Identifier": "1760416127XXX",
       "Claim_Insurance_PreAuthRef": 1760416127,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903206224,
       "Claim_Provider_Name": "FARMA VIDA I",
@@ -2184,7 +2184,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 29055.528,
       "Claim_Items_UnitPrice": 29055.528,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2192,7 +2192,7 @@
       "Claim_Patient_Identifier": "2-21880XXX-03-8",
       "Claim_Encounter_Identifier": "1560386659XXX",
       "Claim_Insurance_PreAuthRef": 1560386659,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903020120,
       "Claim_Provider_Name": "LA PAZ",
@@ -2211,7 +2211,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 7661.6796,
       "Claim_Items_UnitPrice": 7661.6796,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2219,7 +2219,7 @@
       "Claim_Patient_Identifier": "2-33389XXX-01-3",
       "Claim_Encounter_Identifier": "1760399684XXX",
       "Claim_Insurance_PreAuthRef": 1760399684,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -2238,7 +2238,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1944.4192,
       "Claim_Items_UnitPrice": 1944.4192,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2246,7 +2246,7 @@
       "Claim_Patient_Identifier": "2-16432XXX-00-9",
       "Claim_Encounter_Identifier": "1260229253XXX",
       "Claim_Insurance_PreAuthRef": 1260229253,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903225612,
       "Claim_Provider_Name": "NUEVA ROSA",
@@ -2265,7 +2265,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1686.3596,
       "Claim_Items_UnitPrice": 1686.3596,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2273,7 +2273,7 @@
       "Claim_Patient_Identifier": "1-12754XXX-00-7",
       "Claim_Encounter_Identifier": "1460314761XXX",
       "Claim_Insurance_PreAuthRef": 1460314761,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903208772,
       "Claim_Provider_Name": "DIAZ",
@@ -2292,7 +2292,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1680.4164,
       "Claim_Items_UnitPrice": 1680.4164,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2300,7 +2300,7 @@
       "Claim_Patient_Identifier": "2-04243XXX-00-1",
       "Claim_Encounter_Identifier": "1060160863XXX",
       "Claim_Insurance_PreAuthRef": 1060160863,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903207296,
       "Claim_Provider_Name": "BREZZO",
@@ -2319,7 +2319,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2327,7 +2327,7 @@
       "Claim_Patient_Identifier": "2-94085XXX-00-5",
       "Claim_Encounter_Identifier": "6014272568XXX",
       "Claim_Insurance_PreAuthRef": 6014272568,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903019948,
       "Claim_Provider_Name": "SILVANA CIANCIA",
@@ -2346,7 +2346,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 10906.1046,
       "Claim_Items_UnitPrice": 10906.1046,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2354,7 +2354,7 @@
       "Claim_Patient_Identifier": "1-12983XXX-01-5",
       "Claim_Encounter_Identifier": "1760394280XXX",
       "Claim_Insurance_PreAuthRef": 1760394280,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217420,
       "Claim_Provider_Name": "TORRES",
@@ -2373,7 +2373,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 125.426,
       "Claim_Items_UnitPrice": 125.426,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2381,7 +2381,7 @@
       "Claim_Patient_Identifier": "1-06431XXX-00-7",
       "Claim_Encounter_Identifier": "1760408000XXX",
       "Claim_Insurance_PreAuthRef": 1760408000,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903017803,
       "Claim_Provider_Name": "PROSPERI",
@@ -2400,7 +2400,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 35045.4672,
       "Claim_Items_UnitPrice": 35045.4672,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2408,7 +2408,7 @@
       "Claim_Patient_Identifier": "2-14580XXX-00-6",
       "Claim_Encounter_Identifier": "1560361957XXX",
       "Claim_Insurance_PreAuthRef": 1560361957,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221975,
       "Claim_Provider_Name": "NOELIA FERNANDEZ",
@@ -2427,7 +2427,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2435,7 +2435,7 @@
       "Claim_Patient_Identifier": "2-23212XXX-00-5",
       "Claim_Encounter_Identifier": "1560387264XXX",
       "Claim_Insurance_PreAuthRef": 1560387264,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221696,
       "Claim_Provider_Name": "MONICA MARTINEZ II",
@@ -2454,7 +2454,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 253.3612,
       "Claim_Items_UnitPrice": 253.3612,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2462,7 +2462,7 @@
       "Claim_Patient_Identifier": "2-03967XXX-00-6",
       "Claim_Encounter_Identifier": "1760399694XXX",
       "Claim_Insurance_PreAuthRef": 1760399694,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -2481,7 +2481,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 13245.8696,
       "Claim_Items_UnitPrice": 13245.8696,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2489,7 +2489,7 @@
       "Claim_Patient_Identifier": "1-06976XXX-00-5",
       "Claim_Encounter_Identifier": "1760391660XXX",
       "Claim_Insurance_PreAuthRef": 1760391660,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -2508,7 +2508,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 75977.37,
       "Claim_Items_UnitPrice": 75977.37,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2516,7 +2516,7 @@
       "Claim_Patient_Identifier": "1-28118XXX-01-1",
       "Claim_Encounter_Identifier": "1760392455XXX",
       "Claim_Insurance_PreAuthRef": 1760392455,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217931,
       "Claim_Provider_Name": "DEL HOSPITAL ITALIANO ROMA",
@@ -2535,7 +2535,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 4188.7512,
       "Claim_Items_UnitPrice": 4188.7512,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2543,7 +2543,7 @@
       "Claim_Patient_Identifier": "2-13352XXX-01-4",
       "Claim_Encounter_Identifier": "1260236076XXX",
       "Claim_Insurance_PreAuthRef": 1260236076,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903004791,
       "Claim_Provider_Name": "ALBIZURI",
@@ -2562,7 +2562,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 305.5212,
       "Claim_Items_UnitPrice": 305.5212,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2570,7 +2570,7 @@
       "Claim_Patient_Identifier": "2-17845XXX-06-9",
       "Claim_Encounter_Identifier": "1760391690XXX",
       "Claim_Insurance_PreAuthRef": 1760391690,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -2589,7 +2589,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 919720.3004,
       "Claim_Items_UnitPrice": 919720.3004,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2597,7 +2597,7 @@
       "Claim_Patient_Identifier": "1-17843XXX-06-6",
       "Claim_Encounter_Identifier": "1460317017XXX",
       "Claim_Insurance_PreAuthRef": 1460317017,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500001,
       "Claim_Provider_Name": "SEP Sindicato de Empleados Públicos",
@@ -2616,7 +2616,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2624,7 +2624,7 @@
       "Claim_Patient_Identifier": "1-30120XXX-01-5",
       "Claim_Encounter_Identifier": "1760400002XXX",
       "Claim_Insurance_PreAuthRef": 1760400002,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -2643,7 +2643,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 23555.7328,
       "Claim_Items_UnitPrice": 23555.7328,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2651,7 +2651,7 @@
       "Claim_Patient_Identifier": "1-10172XXX-01-6",
       "Claim_Encounter_Identifier": "1760392457XXX",
       "Claim_Insurance_PreAuthRef": 1760392457,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218086,
       "Claim_Provider_Name": "FARMAPLUS",
@@ -2670,7 +2670,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2678,7 +2678,7 @@
       "Claim_Patient_Identifier": "2-10930XXX-00-8",
       "Claim_Encounter_Identifier": "1760411795XXX",
       "Claim_Insurance_PreAuthRef": 1760411795,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903226684,
       "Claim_Provider_Name": "RED GENERAL PAZ CERRO",
@@ -2697,7 +2697,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 80579.876,
       "Claim_Items_UnitPrice": 80579.876,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2705,7 +2705,7 @@
       "Claim_Patient_Identifier": "2-32373XXX-00-9",
       "Claim_Encounter_Identifier": "1160180145XXX",
       "Claim_Insurance_PreAuthRef": 1160180145,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216577,
       "Claim_Provider_Name": "GAILHOU",
@@ -2724,7 +2724,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 67832.2197,
       "Claim_Items_UnitPrice": 67832.2197,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2732,7 +2732,7 @@
       "Claim_Patient_Identifier": "2-03969XXX-00-5",
       "Claim_Encounter_Identifier": "1560389401XXX",
       "Claim_Insurance_PreAuthRef": 1560389401,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903201951,
       "Claim_Provider_Name": "SUAREZ PINO",
@@ -2751,7 +2751,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2759,7 +2759,7 @@
       "Claim_Patient_Identifier": "2-22184XXX-00-4",
       "Claim_Encounter_Identifier": "1760393093XXX",
       "Claim_Insurance_PreAuthRef": 1760393093,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903015551,
       "Claim_Provider_Name": "PONTE",
@@ -2778,7 +2778,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2786,7 +2786,7 @@
       "Claim_Patient_Identifier": "1-16015XXX-00-6",
       "Claim_Encounter_Identifier": "1760417560XXX",
       "Claim_Insurance_PreAuthRef": 1760417560,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -2805,7 +2805,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 14202.486,
       "Claim_Items_UnitPrice": 14202.486,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2813,7 +2813,7 @@
       "Claim_Patient_Identifier": "2-12533XXX-00-1",
       "Claim_Encounter_Identifier": "1560379241XXX",
       "Claim_Insurance_PreAuthRef": 1560379241,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903017044,
       "Claim_Provider_Name": "SALES",
@@ -2832,7 +2832,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2840,7 +2840,7 @@
       "Claim_Patient_Identifier": "2-10450XXX-00-0",
       "Claim_Encounter_Identifier": "1760391915XXX",
       "Claim_Insurance_PreAuthRef": 1760391915,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -2859,7 +2859,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2867,7 +2867,7 @@
       "Claim_Patient_Identifier": "2-13373XXX-00-9",
       "Claim_Encounter_Identifier": "1060170772XXX",
       "Claim_Insurance_PreAuthRef": 1060170772,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -2886,7 +2886,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 253.3612,
       "Claim_Items_UnitPrice": 253.3612,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2894,7 +2894,7 @@
       "Claim_Patient_Identifier": "2-13920XXX-01-2",
       "Claim_Encounter_Identifier": "1760407992XXX",
       "Claim_Insurance_PreAuthRef": 1760407992,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903214604,
       "Claim_Provider_Name": "HOSPITAL PRIVADO",
@@ -2913,7 +2913,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 3253.1744,
       "Claim_Items_UnitPrice": 3253.1744,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2921,7 +2921,7 @@
       "Claim_Patient_Identifier": "2-16904XXX-00-7",
       "Claim_Encounter_Identifier": "1560361966XXX",
       "Claim_Insurance_PreAuthRef": 1560361966,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903215091,
       "Claim_Provider_Name": "LUDUEÑA ZAKKA",
@@ -2940,7 +2940,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 649.872,
       "Claim_Items_UnitPrice": 649.872,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2948,7 +2948,7 @@
       "Claim_Patient_Identifier": "2-22328XXX-00-4",
       "Claim_Encounter_Identifier": "1560385150XXX",
       "Claim_Insurance_PreAuthRef": 1560385150,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223204,
       "Claim_Provider_Name": "MUNDIAL III",
@@ -2967,7 +2967,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -2975,7 +2975,7 @@
       "Claim_Patient_Identifier": "1-05270XXX-08-9",
       "Claim_Encounter_Identifier": "1560343960XXX",
       "Claim_Insurance_PreAuthRef": 1560343960,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903020178,
       "Claim_Provider_Name": "GRANGETTOVOTTERO",
@@ -2994,7 +2994,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 43739.5152,
       "Claim_Items_UnitPrice": 43739.5152,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3002,7 +3002,7 @@
       "Claim_Patient_Identifier": "2-12872XXX-05-1",
       "Claim_Encounter_Identifier": "1760391648XXX",
       "Claim_Insurance_PreAuthRef": 1760391648,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903017481,
       "Claim_Provider_Name": "SILVANA MARTINEZ",
@@ -3021,7 +3021,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3029,7 +3029,7 @@
       "Claim_Patient_Identifier": "1-24443XXX-01-6",
       "Claim_Encounter_Identifier": "1560333527XXX",
       "Claim_Insurance_PreAuthRef": 1560333527,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216577,
       "Claim_Provider_Name": "GAILHOU",
@@ -3048,7 +3048,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3056,7 +3056,7 @@
       "Claim_Patient_Identifier": "2-05809XXX-00-1",
       "Claim_Encounter_Identifier": "1560375635XXX",
       "Claim_Insurance_PreAuthRef": 1560375635,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903018011,
       "Claim_Provider_Name": "MARCOS MORELLO",
@@ -3075,7 +3075,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 125.426,
       "Claim_Items_UnitPrice": 125.426,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3083,7 +3083,7 @@
       "Claim_Patient_Identifier": "2-13688XXX-00-1",
       "Claim_Encounter_Identifier": "1060160864XXX",
       "Claim_Insurance_PreAuthRef": 1060160864,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903207296,
       "Claim_Provider_Name": "BREZZO",
@@ -3102,7 +3102,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 253.3612,
       "Claim_Items_UnitPrice": 253.3612,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3110,7 +3110,7 @@
       "Claim_Patient_Identifier": "2-10069XXX-00-9",
       "Claim_Encounter_Identifier": "1560384945XXX",
       "Claim_Insurance_PreAuthRef": 1560384945,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218412,
       "Claim_Provider_Name": "FARMALLEZA",
@@ -3129,7 +3129,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3137,7 +3137,7 @@
       "Claim_Patient_Identifier": "2-29809XXX-00-1",
       "Claim_Encounter_Identifier": "1560362196XXX",
       "Claim_Insurance_PreAuthRef": 1560362196,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903226173,
       "Claim_Provider_Name": "SEPPI Y VIANO",
@@ -3156,7 +3156,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3164,7 +3164,7 @@
       "Claim_Patient_Identifier": "2-17720XXX-00-1",
       "Claim_Encounter_Identifier": "1560377730XXX",
       "Claim_Insurance_PreAuthRef": 1560377730,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216669,
       "Claim_Provider_Name": "SARMIENTO IV",
@@ -3183,7 +3183,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3191,7 +3191,7 @@
       "Claim_Patient_Identifier": "2-04563XXX-00-1",
       "Claim_Encounter_Identifier": "1760407997XXX",
       "Claim_Insurance_PreAuthRef": 1760407997,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903007884,
       "Claim_Provider_Name": "VERMOUTH",
@@ -3210,7 +3210,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2029.1306,
       "Claim_Items_UnitPrice": 2029.1306,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3218,7 +3218,7 @@
       "Claim_Patient_Identifier": "2-10683XXX-00-1",
       "Claim_Encounter_Identifier": "1760394219XXX",
       "Claim_Insurance_PreAuthRef": 1760394219,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -3237,7 +3237,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 79493.8656,
       "Claim_Items_UnitPrice": 79493.8656,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3245,7 +3245,7 @@
       "Claim_Patient_Identifier": "2-11561XXX-00-6",
       "Claim_Encounter_Identifier": "1760392831XXX",
       "Claim_Insurance_PreAuthRef": 1760392831,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903226671,
       "Claim_Provider_Name": "RED GENERAL PAZ VILLA BELGRANO",
@@ -3264,7 +3264,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3272,7 +3272,7 @@
       "Claim_Patient_Identifier": "1-34389XXX-00-4",
       "Claim_Encounter_Identifier": "1260232005XXX",
       "Claim_Insurance_PreAuthRef": 1260232005,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -3291,7 +3291,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 562571.074,
       "Claim_Items_UnitPrice": 562571.074,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3299,7 +3299,7 @@
       "Claim_Patient_Identifier": "2-10512XXX-00-6",
       "Claim_Encounter_Identifier": "1760391934XXX",
       "Claim_Insurance_PreAuthRef": 1760391934,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221804,
       "Claim_Provider_Name": "GALLETTI",
@@ -3318,7 +3318,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 20217.5851,
       "Claim_Items_UnitPrice": 20217.5851,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3326,7 +3326,7 @@
       "Claim_Patient_Identifier": "2-12662XXX-00-9",
       "Claim_Encounter_Identifier": "1560361980XXX",
       "Claim_Insurance_PreAuthRef": 1560361980,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -3345,7 +3345,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3353,7 +3353,7 @@
       "Claim_Patient_Identifier": "1-07969XXX-00-3",
       "Claim_Encounter_Identifier": "1460317015XXX",
       "Claim_Insurance_PreAuthRef": 1460317015,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500001,
       "Claim_Provider_Name": "SEP Sindicato de Empleados Públicos",
@@ -3372,7 +3372,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 581.9016,
       "Claim_Items_UnitPrice": 581.9016,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3380,7 +3380,7 @@
       "Claim_Patient_Identifier": "2-12157XXX-00-2",
       "Claim_Encounter_Identifier": "1560375474XXX",
       "Claim_Insurance_PreAuthRef": 1560375474,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218521,
       "Claim_Provider_Name": "PLAZA",
@@ -3399,7 +3399,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3407,7 +3407,7 @@
       "Claim_Patient_Identifier": "2-16655XXX-04-1",
       "Claim_Encounter_Identifier": "1760391667XXX",
       "Claim_Insurance_PreAuthRef": 1760391667,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903219405,
       "Claim_Provider_Name": "GENERAL PAZ ROMA",
@@ -3426,7 +3426,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2454.9156,
       "Claim_Items_UnitPrice": 2454.9156,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3434,7 +3434,7 @@
       "Claim_Patient_Identifier": "2-21401XXX-00-7",
       "Claim_Encounter_Identifier": "1560352668XXX",
       "Claim_Insurance_PreAuthRef": 1560352668,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903023061,
       "Claim_Provider_Name": "BONETTO",
@@ -3453,7 +3453,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 125.426,
       "Claim_Items_UnitPrice": 125.426,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3461,7 +3461,7 @@
       "Claim_Patient_Identifier": "1-32804XXX-00-6",
       "Claim_Encounter_Identifier": "1760407895XXX",
       "Claim_Insurance_PreAuthRef": 1760407895,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -3480,7 +3480,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 363.2152,
       "Claim_Items_UnitPrice": 363.2152,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3488,7 +3488,7 @@
       "Claim_Patient_Identifier": "1-05074XXX-00-1",
       "Claim_Encounter_Identifier": "1760400025XXX",
       "Claim_Insurance_PreAuthRef": 1760400025,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -3507,7 +3507,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1680.4164,
       "Claim_Items_UnitPrice": 1680.4164,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3515,7 +3515,7 @@
       "Claim_Patient_Identifier": "1-32804XXX-00-6",
       "Claim_Encounter_Identifier": "1760407999XXX",
       "Claim_Insurance_PreAuthRef": 1760407999,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -3534,7 +3534,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 351.3288,
       "Claim_Items_UnitPrice": 351.3288,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3542,7 +3542,7 @@
       "Claim_Patient_Identifier": "2-12810XXX-00-3",
       "Claim_Encounter_Identifier": "1760399615XXX",
       "Claim_Insurance_PreAuthRef": 1760399615,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -3561,7 +3561,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 13245.8696,
       "Claim_Items_UnitPrice": 13245.8696,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3569,7 +3569,7 @@
       "Claim_Patient_Identifier": "2-10738XXX-00-7",
       "Claim_Encounter_Identifier": "1560389400XXX",
       "Claim_Insurance_PreAuthRef": 1560389400,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903201362,
       "Claim_Provider_Name": "ESTEVAN DE ERGUETA",
@@ -3588,7 +3588,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3596,7 +3596,7 @@
       "Claim_Patient_Identifier": "2-17671XXX-04-6",
       "Claim_Encounter_Identifier": "1760400006XXX",
       "Claim_Insurance_PreAuthRef": 1760400006,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -3615,7 +3615,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2982.6024,
       "Claim_Items_UnitPrice": 2982.6024,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3623,7 +3623,7 @@
       "Claim_Patient_Identifier": "2-22567XXX-04-0",
       "Claim_Encounter_Identifier": "1760399692XXX",
       "Claim_Insurance_PreAuthRef": 1760399692,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903004354,
       "Claim_Provider_Name": "ALVAREZ DE BESSO",
@@ -3642,7 +3642,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 35045.4672,
       "Claim_Items_UnitPrice": 35045.4672,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3650,7 +3650,7 @@
       "Claim_Patient_Identifier": "1-22526XXX-04-7",
       "Claim_Encounter_Identifier": "1360267182XXX",
       "Claim_Insurance_PreAuthRef": 1360267182,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216219,
       "Claim_Provider_Name": "SANCHEZ ANTONIOLLI",
@@ -3669,7 +3669,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1293.921,
       "Claim_Items_UnitPrice": 1293.921,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3677,7 +3677,7 @@
       "Claim_Patient_Identifier": "2-06549XXX-06-5",
       "Claim_Encounter_Identifier": "1460328041XXX",
       "Claim_Insurance_PreAuthRef": 1460328041,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -3696,7 +3696,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 76296.3192,
       "Claim_Items_UnitPrice": 76296.3192,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3704,7 +3704,7 @@
       "Claim_Patient_Identifier": "2-18111XXX-03-1",
       "Claim_Encounter_Identifier": "1760400012XXX",
       "Claim_Insurance_PreAuthRef": 1760400012,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903202062,
       "Claim_Provider_Name": "TIRANTI FROLA",
@@ -3723,7 +3723,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 65392.171,
       "Claim_Items_UnitPrice": 65392.171,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3731,7 +3731,7 @@
       "Claim_Patient_Identifier": "2-17656XXX-00-2",
       "Claim_Encounter_Identifier": "1560381153XXX",
       "Claim_Insurance_PreAuthRef": 1560381153,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903219130,
       "Claim_Provider_Name": "GENERAL PAZ COLON",
@@ -3750,7 +3750,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 49055.5656,
       "Claim_Items_UnitPrice": 49055.5656,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3758,7 +3758,7 @@
       "Claim_Patient_Identifier": "1-07980XXX-00-7",
       "Claim_Encounter_Identifier": "1760417560XXX",
       "Claim_Insurance_PreAuthRef": 1760417560,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -3777,7 +3777,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 3945.8316,
       "Claim_Items_UnitPrice": 3945.8316,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3785,7 +3785,7 @@
       "Claim_Patient_Identifier": "2-00940XXX-00-9",
       "Claim_Encounter_Identifier": "1560381154XXX",
       "Claim_Insurance_PreAuthRef": 1560381154,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -3804,7 +3804,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 61601.8174,
       "Claim_Items_UnitPrice": 61601.8174,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3812,7 +3812,7 @@
       "Claim_Patient_Identifier": "2-12248XXX-00-7",
       "Claim_Encounter_Identifier": "1560343273XXX",
       "Claim_Insurance_PreAuthRef": 1560343273,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -3831,7 +3831,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 819.2368,
       "Claim_Items_UnitPrice": 819.2368,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3839,7 +3839,7 @@
       "Claim_Patient_Identifier": "2-06399XXX-00-0",
       "Claim_Encounter_Identifier": "1460302556XXX",
       "Claim_Insurance_PreAuthRef": 1460302556,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221542,
       "Claim_Provider_Name": "DOCFARMA",
@@ -3858,7 +3858,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 35124.0624,
       "Claim_Items_UnitPrice": 35124.0624,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3866,7 +3866,7 @@
       "Claim_Patient_Identifier": "2-13371XXX-00-8",
       "Claim_Encounter_Identifier": "1760399615XXX",
       "Claim_Insurance_PreAuthRef": 1760399615,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -3885,7 +3885,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 13245.8696,
       "Claim_Items_UnitPrice": 13245.8696,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3893,7 +3893,7 @@
       "Claim_Patient_Identifier": "1-24739XXX-01-8",
       "Claim_Encounter_Identifier": "1560377737XXX",
       "Claim_Insurance_PreAuthRef": 1560377737,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903215519,
       "Claim_Provider_Name": "FARMA WILL",
@@ -3912,7 +3912,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3920,7 +3920,7 @@
       "Claim_Patient_Identifier": "2-11639XXX-05-9",
       "Claim_Encounter_Identifier": "1160209724XXX",
       "Claim_Insurance_PreAuthRef": 1160209724,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -3939,7 +3939,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2542.9552,
       "Claim_Items_UnitPrice": 2542.9552,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3947,7 +3947,7 @@
       "Claim_Patient_Identifier": "2-22013XXX-00-4",
       "Claim_Encounter_Identifier": "1560377845XXX",
       "Claim_Insurance_PreAuthRef": 1560377845,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903220376,
       "Claim_Provider_Name": "NUEVA ERA",
@@ -3966,7 +3966,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -3974,7 +3974,7 @@
       "Claim_Patient_Identifier": "2-17386XXX-03-9",
       "Claim_Encounter_Identifier": "1760400005XXX",
       "Claim_Insurance_PreAuthRef": 1760400005,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -3993,7 +3993,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 145.4754,
       "Claim_Items_UnitPrice": 145.4754,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4001,7 +4001,7 @@
       "Claim_Patient_Identifier": "2-05325XXX-00-1",
       "Claim_Encounter_Identifier": "1560381161XXX",
       "Claim_Insurance_PreAuthRef": 1560381161,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903204072,
       "Claim_Provider_Name": "PONCIO",
@@ -4020,7 +4020,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4028,7 +4028,7 @@
       "Claim_Patient_Identifier": "2-13682XXX-04-9",
       "Claim_Encounter_Identifier": "1560386667XXX",
       "Claim_Insurance_PreAuthRef": 1560386667,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4047,7 +4047,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 3865.8378,
       "Claim_Items_UnitPrice": 3865.8378,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4055,7 +4055,7 @@
       "Claim_Patient_Identifier": "1-06809XXX-00-7",
       "Claim_Encounter_Identifier": "1760399672XXX",
       "Claim_Insurance_PreAuthRef": 1760399672,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903007884,
       "Claim_Provider_Name": "VERMOUTH",
@@ -4074,7 +4074,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 65392.171,
       "Claim_Items_UnitPrice": 65392.171,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4082,7 +4082,7 @@
       "Claim_Patient_Identifier": "2-18432XXX-00-5",
       "Claim_Encounter_Identifier": "1760410071XXX",
       "Claim_Insurance_PreAuthRef": 1760410071,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 936200221,
       "Claim_Provider_Name": "RIBOTTA",
@@ -4101,7 +4101,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 17289.2176,
       "Claim_Items_UnitPrice": 17289.2176,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4109,7 +4109,7 @@
       "Claim_Patient_Identifier": "2-24617XXX-00-1",
       "Claim_Encounter_Identifier": "1560377846XXX",
       "Claim_Insurance_PreAuthRef": 1560377846,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903226296,
       "Claim_Provider_Name": "CAVALLERO",
@@ -4128,7 +4128,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4136,7 +4136,7 @@
       "Claim_Patient_Identifier": "1-20076XXX-00-6",
       "Claim_Encounter_Identifier": "1760400760XXX",
       "Claim_Insurance_PreAuthRef": 1760400760,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223841,
       "Claim_Provider_Name": "HP FARMA COLON",
@@ -4155,7 +4155,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1295.6176,
       "Claim_Items_UnitPrice": 1295.6176,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4163,7 +4163,7 @@
       "Claim_Patient_Identifier": "1-25794XXX-01-8",
       "Claim_Encounter_Identifier": "1460308088XXX",
       "Claim_Insurance_PreAuthRef": 1460308088,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4182,7 +4182,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 75977.37,
       "Claim_Items_UnitPrice": 75977.37,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4190,7 +4190,7 @@
       "Claim_Patient_Identifier": "2-17114XXX-00-0",
       "Claim_Encounter_Identifier": "1760392456XXX",
       "Claim_Insurance_PreAuthRef": 1760392456,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 936201031,
       "Claim_Provider_Name": "CAROLINA PEREZ",
@@ -4209,7 +4209,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4217,7 +4217,7 @@
       "Claim_Patient_Identifier": "2-13371XXX-00-9",
       "Claim_Encounter_Identifier": "1560381153XXX",
       "Claim_Insurance_PreAuthRef": 1560381153,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4236,7 +4236,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 61601.8174,
       "Claim_Items_UnitPrice": 61601.8174,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4244,7 +4244,7 @@
       "Claim_Patient_Identifier": "2-33389XXX-01-3",
       "Claim_Encounter_Identifier": "1760400014XXX",
       "Claim_Insurance_PreAuthRef": 1760400014,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -4263,7 +4263,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 2358.9404,
       "Claim_Items_UnitPrice": 2358.9404,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4271,7 +4271,7 @@
       "Claim_Patient_Identifier": "1-17382XXX-09-3",
       "Claim_Encounter_Identifier": "1760411758XXX",
       "Claim_Insurance_PreAuthRef": 1760411758,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217931,
       "Claim_Provider_Name": "DEL HOSPITAL ITALIANO ROMA",
@@ -4290,7 +4290,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 35085.8232,
       "Claim_Items_UnitPrice": 35085.8232,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4298,7 +4298,7 @@
       "Claim_Patient_Identifier": "2-13681XXX-00-9",
       "Claim_Encounter_Identifier": "1560352004XXX",
       "Claim_Insurance_PreAuthRef": 1560352004,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903206967,
       "Claim_Provider_Name": "FAVARO DE VACONDIO",
@@ -4317,7 +4317,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4325,7 +4325,7 @@
       "Claim_Patient_Identifier": "2-06643XXX-02-7",
       "Claim_Encounter_Identifier": "1760399941XXX",
       "Claim_Insurance_PreAuthRef": 1760399941,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4344,7 +4344,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 429549.12,
       "Claim_Items_UnitPrice": 429549.12,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4352,7 +4352,7 @@
       "Claim_Patient_Identifier": "2-12876XXX-00-4",
       "Claim_Encounter_Identifier": "1760399691XXX",
       "Claim_Insurance_PreAuthRef": 1760399691,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216468,
       "Claim_Provider_Name": "ESPORA",
@@ -4371,7 +4371,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 35045.4672,
       "Claim_Items_UnitPrice": 35045.4672,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4379,7 +4379,7 @@
       "Claim_Patient_Identifier": "1-10049XXX-01-2",
       "Claim_Encounter_Identifier": "1460277237XXX",
       "Claim_Insurance_PreAuthRef": 1460277237,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903107547,
       "Claim_Provider_Name": "BENGOCHEA",
@@ -4398,7 +4398,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4406,7 +4406,7 @@
       "Claim_Patient_Identifier": "2-16123XXX-00-3",
       "Claim_Encounter_Identifier": "1560369120XXX",
       "Claim_Insurance_PreAuthRef": 1560369120,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 936201136,
       "Claim_Provider_Name": "DEL SUD S.A.",
@@ -4425,7 +4425,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4433,7 +4433,7 @@
       "Claim_Patient_Identifier": "1-13484XXX-00-4",
       "Claim_Encounter_Identifier": "1060157204XXX",
       "Claim_Insurance_PreAuthRef": 1060157204,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -4452,7 +4452,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 908.2624,
       "Claim_Items_UnitPrice": 908.2624,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4460,7 +4460,7 @@
       "Claim_Patient_Identifier": "1-08116XXX-00-4",
       "Claim_Encounter_Identifier": "1060170775XXX",
       "Claim_Insurance_PreAuthRef": 1060170775,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 936201926,
       "Claim_Provider_Name": "FERROCCHIO",
@@ -4479,7 +4479,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 4125.519,
       "Claim_Items_UnitPrice": 4125.519,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4487,7 +4487,7 @@
       "Claim_Patient_Identifier": "2-12509XXX-00-7",
       "Claim_Encounter_Identifier": "1760399616XXX",
       "Claim_Insurance_PreAuthRef": 1760399616,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -4506,7 +4506,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 27063.112,
       "Claim_Items_UnitPrice": 27063.112,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4514,7 +4514,7 @@
       "Claim_Patient_Identifier": "1-10250XXX-01-3",
       "Claim_Encounter_Identifier": "1760403671XXX",
       "Claim_Insurance_PreAuthRef": 1760403671,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903213642,
       "Claim_Provider_Name": "GURRIERI",
@@ -4533,7 +4533,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 13960.7094,
       "Claim_Items_UnitPrice": 13960.7094,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4541,7 +4541,7 @@
       "Claim_Patient_Identifier": "1-06431XXX-00-8",
       "Claim_Encounter_Identifier": "1760399671XXX",
       "Claim_Insurance_PreAuthRef": 1760399671,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4560,7 +4560,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 64081.098,
       "Claim_Items_UnitPrice": 64081.098,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4568,7 +4568,7 @@
       "Claim_Patient_Identifier": "2-03967XXX-00-1",
       "Claim_Encounter_Identifier": "1560385150XXX",
       "Claim_Insurance_PreAuthRef": 1560385150,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903215519,
       "Claim_Provider_Name": "FARMA WILL",
@@ -4587,7 +4587,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4595,7 +4595,7 @@
       "Claim_Patient_Identifier": "2-10445XXX-00-1",
       "Claim_Encounter_Identifier": "1560377736XXX",
       "Claim_Insurance_PreAuthRef": 1560377736,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903205058,
       "Claim_Provider_Name": "MONLLOR",
@@ -4614,7 +4614,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4622,7 +4622,7 @@
       "Claim_Patient_Identifier": "1-28105XXX-03-1",
       "Claim_Encounter_Identifier": "1760399608XXX",
       "Claim_Insurance_PreAuthRef": 1760399608,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -4641,7 +4641,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 30160.8576,
       "Claim_Items_UnitPrice": 30160.8576,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4649,7 +4649,7 @@
       "Claim_Patient_Identifier": "2-18111XXX-03-1",
       "Claim_Encounter_Identifier": "1760399623XXX",
       "Claim_Insurance_PreAuthRef": 1760399623,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903202062,
       "Claim_Provider_Name": "TIRANTI FROLA",
@@ -4668,7 +4668,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 65392.171,
       "Claim_Items_UnitPrice": 65392.171,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4676,7 +4676,7 @@
       "Claim_Patient_Identifier": "2-26925XXX-00-8",
       "Claim_Encounter_Identifier": "1760410071XXX",
       "Claim_Insurance_PreAuthRef": 1760410071,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 936201848,
       "Claim_Provider_Name": "GARCIA COCCO II",
@@ -4695,7 +4695,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 36337.7288,
       "Claim_Items_UnitPrice": 36337.7288,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4703,7 +4703,7 @@
       "Claim_Patient_Identifier": "1-12731XXX-00-3",
       "Claim_Encounter_Identifier": "1760391690XXX",
       "Claim_Insurance_PreAuthRef": 1760391690,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4722,7 +4722,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 919720.3004,
       "Claim_Items_UnitPrice": 919720.3004,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4730,7 +4730,7 @@
       "Claim_Patient_Identifier": "2-01570XXX-00-5",
       "Claim_Encounter_Identifier": "1760403673XXX",
       "Claim_Insurance_PreAuthRef": 1760403673,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4749,7 +4749,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 434359.1928,
       "Claim_Items_UnitPrice": 434359.1928,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4757,7 +4757,7 @@
       "Claim_Patient_Identifier": "2-03800XXX-00-0",
       "Claim_Encounter_Identifier": "1460305269XXX",
       "Claim_Insurance_PreAuthRef": 1460305269,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223003,
       "Claim_Provider_Name": "VILLA NUEVA II",
@@ -4776,7 +4776,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 8699.933,
       "Claim_Items_UnitPrice": 8699.933,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4784,7 +4784,7 @@
       "Claim_Patient_Identifier": "2-12554XXX-00-2",
       "Claim_Encounter_Identifier": "1560377843XXX",
       "Claim_Insurance_PreAuthRef": 1560377843,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903210861,
       "Claim_Provider_Name": "BUENOS AIRES",
@@ -4803,7 +4803,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 125.426,
       "Claim_Items_UnitPrice": 125.426,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4811,7 +4811,7 @@
       "Claim_Patient_Identifier": "2-25087XXX-04-6",
       "Claim_Encounter_Identifier": "1760403691XXX",
       "Claim_Insurance_PreAuthRef": 1760403691,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903013464,
       "Claim_Provider_Name": "ISAIA",
@@ -4830,7 +4830,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 83349.329,
       "Claim_Items_UnitPrice": 83349.329,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4838,7 +4838,7 @@
       "Claim_Patient_Identifier": "2-12245XXX-00-5",
       "Claim_Encounter_Identifier": "1460293073XXX",
       "Claim_Insurance_PreAuthRef": 1460293073,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903500001,
       "Claim_Provider_Name": "SEP Sindicato de Empleados Públicos",
@@ -4857,7 +4857,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 250.852,
       "Claim_Items_UnitPrice": 250.852,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4865,7 +4865,7 @@
       "Claim_Patient_Identifier": "1-20146XXX-01-6",
       "Claim_Encounter_Identifier": "1760400002XXX",
       "Claim_Insurance_PreAuthRef": 1760400002,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903217573,
       "Claim_Provider_Name": "NEXO PHARMA",
@@ -4884,7 +4884,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 23555.7328,
       "Claim_Items_UnitPrice": 23555.7328,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4892,7 +4892,7 @@
       "Claim_Patient_Identifier": "2-14520XXX-01-9",
       "Claim_Encounter_Identifier": "1760391692XXX",
       "Claim_Insurance_PreAuthRef": 1760391692,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903219405,
       "Claim_Provider_Name": "GENERAL PAZ ROMA",
@@ -4911,7 +4911,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1686.3596,
       "Claim_Items_UnitPrice": 1686.3596,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4919,7 +4919,7 @@
       "Claim_Patient_Identifier": "2-04563XXX-00-1",
       "Claim_Encounter_Identifier": "1760408003XXX",
       "Claim_Insurance_PreAuthRef": 1760408003,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903007884,
       "Claim_Provider_Name": "VERMOUTH",
@@ -4938,7 +4938,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 1479.5126,
       "Claim_Items_UnitPrice": 1479.5126,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4946,7 +4946,7 @@
       "Claim_Patient_Identifier": "1-10377XXX-01-2",
       "Claim_Encounter_Identifier": "1260229247XXX",
       "Claim_Insurance_PreAuthRef": 1260229247,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -4965,7 +4965,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -4973,7 +4973,7 @@
       "Claim_Patient_Identifier": "2-06616XXX-00-1",
       "Claim_Encounter_Identifier": "1760392708XXX",
       "Claim_Insurance_PreAuthRef": 1760392708,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -4992,7 +4992,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 69447.0672,
       "Claim_Items_UnitPrice": 69447.0672,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5000,7 +5000,7 @@
       "Claim_Patient_Identifier": "1-12035XXX-01-8",
       "Claim_Encounter_Identifier": "1760392219XXX",
       "Claim_Insurance_PreAuthRef": 1760392219,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -5019,7 +5019,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 11518.1528,
       "Claim_Items_UnitPrice": 11518.1528,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5027,7 +5027,7 @@
       "Claim_Patient_Identifier": "2-13378XXX-01-1",
       "Claim_Encounter_Identifier": "1460312434XXX",
       "Claim_Insurance_PreAuthRef": 1460312434,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -5046,7 +5046,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 70091.0343,
       "Claim_Items_UnitPrice": 70091.0343,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5054,7 +5054,7 @@
       "Claim_Patient_Identifier": "2-01151XXX-00-1",
       "Claim_Encounter_Identifier": "1760391670XXX",
       "Claim_Insurance_PreAuthRef": 1760391670,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218521,
       "Claim_Provider_Name": "PLAZA",
@@ -5073,7 +5073,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5081,7 +5081,7 @@
       "Claim_Patient_Identifier": "2-04291XXX-00-1",
       "Claim_Encounter_Identifier": "1760391676XXX",
       "Claim_Insurance_PreAuthRef": 1760391676,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903215519,
       "Claim_Provider_Name": "FARMA WILL",
@@ -5100,7 +5100,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5108,7 +5108,7 @@
       "Claim_Patient_Identifier": "2-17531XXX-00-3",
       "Claim_Encounter_Identifier": "1760391676XXX",
       "Claim_Insurance_PreAuthRef": 1760391676,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903223453,
       "Claim_Provider_Name": "HOLISTICA AMAPOLHA",
@@ -5127,7 +5127,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5135,7 +5135,7 @@
       "Claim_Patient_Identifier": "1-07995XXX-00-8",
       "Claim_Encounter_Identifier": "1560386663XXX",
       "Claim_Insurance_PreAuthRef": 1560386663,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -5154,7 +5154,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 10486.638,
       "Claim_Items_UnitPrice": 10486.638,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5162,7 +5162,7 @@
       "Claim_Patient_Identifier": "2-21926XXX-00-5",
       "Claim_Encounter_Identifier": "1760392458XXX",
       "Claim_Insurance_PreAuthRef": 1760392458,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903216406,
       "Claim_Provider_Name": "LIDER",
@@ -5181,7 +5181,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 6582.8395,
       "Claim_Items_UnitPrice": 6582.8395,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5189,7 +5189,7 @@
       "Claim_Patient_Identifier": "2-33603XXX-00-1",
       "Claim_Encounter_Identifier": "1760400025XXX",
       "Claim_Insurance_PreAuthRef": 1760400025,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903221621,
       "Claim_Provider_Name": "HP FARMA RAUL FERREYRA",
@@ -5208,7 +5208,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 27063.112,
       "Claim_Items_UnitPrice": 27063.112,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5216,7 +5216,7 @@
       "Claim_Patient_Identifier": "2-04937XXX-00-3",
       "Claim_Encounter_Identifier": "1760392212XXX",
       "Claim_Insurance_PreAuthRef": 1760392212,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903218273,
       "Claim_Provider_Name": "HP FARMA X",
@@ -5235,7 +5235,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 376.278,
       "Claim_Items_UnitPrice": 376.278,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5243,7 +5243,7 @@
       "Claim_Patient_Identifier": "2-22382XXX-05-3",
       "Claim_Encounter_Identifier": "1760391682XXX",
       "Claim_Insurance_PreAuthRef": 1760391682,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903015237,
       "Claim_Provider_Name": "OLOCCO",
@@ -5262,7 +5262,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5270,7 +5270,7 @@
       "Claim_Patient_Identifier": "1-12865XXX-00-1",
       "Claim_Encounter_Identifier": "1560361956XXX",
       "Claim_Insurance_PreAuthRef": 1560361956,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903000001,
       "Claim_Provider_Name": "FARMACIA AXXXS",
@@ -5289,7 +5289,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 74659.7723,
       "Claim_Items_UnitPrice": 74659.7723,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5297,7 +5297,7 @@
       "Claim_Patient_Identifier": "2-04945XXX-00-7",
       "Claim_Encounter_Identifier": "1560361957XXX",
       "Claim_Insurance_PreAuthRef": 1560361957,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903206224,
       "Claim_Provider_Name": "FARMA VIDA I",
@@ -5316,7 +5316,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5324,7 +5324,7 @@
       "Claim_Patient_Identifier": "2-11481XXX-00-1",
       "Claim_Encounter_Identifier": "1260229254XXX",
       "Claim_Insurance_PreAuthRef": 1260229254,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903222409,
       "Claim_Provider_Name": "GEOFARMA",
@@ -5343,7 +5343,7 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 380.0418,
       "Claim_Items_UnitPrice": 380.0418,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     },
     {
       "Organization_Identifier": 1,
@@ -5351,7 +5351,7 @@
       "Claim_Patient_Identifier": "2-04891XXX-02-3",
       "Claim_Encounter_Identifier": "1560386663XXX",
       "Claim_Insurance_PreAuthRef": 1560386663,
-      "Invoice_Identifier": "",
+      "Claim_Response_Payment_Identifier": "",
       "Claim_Encounter_Class": 3,
       "Claim_Provider_Identifier": 903011085,
       "Claim_Provider_Name": "SALANI",
@@ -5370,6 +5370,6 @@
       "Claim_Procedure_Age_Surgical_Ventilation": 0,
       "Claim_Item_Net": 10486.638,
       "Claim_Items_UnitPrice": 10486.638,
-      "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Value": 0
     }
   ]

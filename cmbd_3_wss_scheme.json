@@ -4,7 +4,7 @@
     "Organization_Name": "text",
     "Claim_Patient_Identifier": "text",
     "Claim_Encounter_Identifier": "text",
-    "CoverageEligibilityResponse_Outcome": "text",
+    "Claim_Response_Outcome": "text",
     "Claim_Insurance_PreAuthRef": "text",
     "Claim_Item_ProductOrService": "text",
     "Claim_Item_ProductOrService_Text": "text",
@@ -12,6 +12,6 @@
     "Claim_Item_Quantity": 1.5,
     "Claim_Item_UnitPrice": 1.5,
     "Claim_Item_Net": 1.5,
-    "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 1.5
+    "Claim_Response_Item_Adjudication_Value": 1.5
   }
 ]

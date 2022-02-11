@@ -6,7 +6,7 @@
     "Encounter_Identifier": "text",
     "Encounter_Diagnosis_Note": "text",
     "Encounter_Procedure_Note": "text",
-    "EpisodeOfCare_Text": "text",
-    "EpisodeOfCare_Format": "text"
+    "Encounter_EpisodeOfCare_Text": "text",
+    "Encounter_EpisodeOfCare_Format": "text"
   }
 ]

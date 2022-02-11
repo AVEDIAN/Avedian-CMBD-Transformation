@@ -12,6 +12,6 @@
     "Claim_Insurance_Coverage_Type": 1,
     "Claim_Item_Net": 1.5,
     "Claim_Item_UnitPrice": 1.5,
-    "Claim_Insurance_ClaimResponse_Item_Adjudication_Value": 1.5
+    "Claim_Response_Item_Adjudication_Value": 1.5
   }
 ]

@@ -13,15 +13,15 @@ Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Insuran
 1;text;text;1970-01-01 00:00:00;1970-01-01 00:00:00;text;text;text;text;1970-01-01 00:00:00;text;text;text;text;text;text;text;text;1.5;text;text;text;1970-01-01 00:00:00;1970-01-01 00:00:00
 
 CMBD2 Format
-Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Insurance_PreAuthRef;Invoice_Identifier;Claim_Encounter_Class;Claim_Provider_Identifier;Claim_Provider_Name;Claim_CareTeam_Provider_Identifier_Responsible;Claim_CareTeam_Provider_Name_Responsible;Claim_CareTeam_Provider_Identifier_Prescribing;Claim_CareTeam_Provider_Name_Prescribing;Claim_Encounter_Period_Start;Claim_Encounter_Period_End;Claim_Accident_Type;Claim_Encounter_ServiceType;Claim_Encounter_DischargeDisposition;Claim_Diagnosis_OnAdmission;Claim_Procedure_PerformedDateTime_Surgical;Claim_Procedure_Age_Surgical;Claim_Procedure_Age_Surgical_Ventilation;Claim_Item_Net;Claim_Items_UnitPrice;Claim_Insurance_ClaimResponse_Item_Adjudication_Value
+Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Insurance_PreAuthRef;Claim_Response_Payment_Identifier;Claim_Encounter_Class;Claim_Provider_Identifier;Claim_Provider_Name;Claim_CareTeam_Provider_Identifier_Responsible;Claim_CareTeam_Provider_Name_Responsible;Claim_CareTeam_Provider_Identifier_Prescribing;Claim_CareTeam_Provider_Name_Prescribing;Claim_Encounter_Period_Start;Claim_Encounter_Period_End;Claim_Accident_Type;Claim_Encounter_ServiceType;Claim_Encounter_DischargeDisposition;Claim_Diagnosis_OnAdmission;Claim_Procedure_PerformedDateTime_Surgical;Claim_Procedure_Age_Surgical;Claim_Procedure_Age_Surgical_Ventilation;Claim_Item_Net;Claim_Items_UnitPrice;Claim_Response_Item_Adjudication_Value
 1;text;text;text;text;text;1;text;text;text;text;text;text;1970-01-01 00:00:00;1970-01-01 00:00:00;1;1;1;text;1970-01-01 00:00:00;1.5;1.5;1.5;1.5;1.5
 
 CMBD3 Format 
-Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;CoverageEligibilityResponse_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Item_Net;Claim_Insurance_ClaimResponse_Item_Adjudication_Value
+Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Response_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Item_Net;Claim_Response_Item_Adjudication_Value
 1;text;text;text;text;text;text;text;1970-01-01 00:00:00;1.5;1.5;1.5;1.5
 
 CMBD4 Format
-Organization_Identifier;Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;EpisodeOfCare_Text;EpisodeOfCare_Format
+Organization_Identifier;Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;Encounter_EpisodeOfCare_Text;Encounter_EpisodeOfCare_Format
 1;text;text;text;text;text;text;text
 
 ##Examples
@@ -35,7 +35,7 @@ Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Insuran
 1;AXXXS;2-00940XXX-00-9;1978-10-01 00:00:00;1978-12-31 00:00:00;XXX;PORTO XXX;27009406XXX;00940XXX;1931-10-08 00:00:00;F;X;CORDOBA;10460;CORDOBA;1;AXXXS;NG;11168.58;C50;1;ONCOLOGICOS;;
 
 CMBD2 Example
-Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Insurance_PreAuthRef;Invoice_Identifier;Claim_Encounter_Class;Claim_Provider_Identifier;Claim_Provider_Name;Claim_CareTeam_Provider_Identifier_Responsible;Claim_CareTeam_Provider_Name_Responsible;Claim_CareTeam_Provider_Identifier_Prescribing;Claim_CareTeam_Provider_Name_Prescribing;Claim_Encounter_Period_Start;Claim_Encounter_Period_End;Claim_Accident_Type;Claim_Encounter_ServiceType;Claim_Encounter_DischargeDisposition;Claim_Diagnosis_OnAdmission;Claim_Procedure_PerformedDateTime_Surgical;Claim_Procedure_Age_Surgical;Claim_Procedure_Age_Surgical_Ventilation;Claim_Item_Net;Claim_Items_UnitPrice;Claim_Insurance_ClaimResponse_Item_Adjudication_Value
+Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Insurance_PreAuthRef;Claim_Response_Payment_Identifier;Claim_Encounter_Class;Claim_Provider_Identifier;Claim_Provider_Name;Claim_CareTeam_Provider_Identifier_Responsible;Claim_CareTeam_Provider_Name_Responsible;Claim_CareTeam_Provider_Identifier_Prescribing;Claim_CareTeam_Provider_Name_Prescribing;Claim_Encounter_Period_Start;Claim_Encounter_Period_End;Claim_Accident_Type;Claim_Encounter_ServiceType;Claim_Encounter_DischargeDisposition;Claim_Diagnosis_OnAdmission;Claim_Procedure_PerformedDateTime_Surgical;Claim_Procedure_Age_Surgical;Claim_Procedure_Age_Surgical_Ventilation;Claim_Item_Net;Claim_Items_UnitPrice;Claim_Response_Item_Adjudication_Value
 1;AXXXS;2-10822XXX-00-0;1560377526XXX;1560377526;;3;903021965;SANCHEZ;20417;LAVARDAXXX;20417;LAVARXXX;2018-07-24 00:00:00;2018-07-24 00:00:00;1;6;9;;;0.00;0.00;126.68060;126.68060;0.00
 1;AXXXS;2-26382XXX-02-9;1760395417XXX;1760395417;;3;903000001;FARMACIA AXXXS;32219;CORTES XXX;32219;CORTEXXX;2018-06-27 00:00:00;2018-06-27 00:00:00;1;8;9;;;0.00;0.00;74287.05000;74287.05000;0.00
 1;AXXXS;1-06423XXX-01-1;1760392059XXX;1760392059;;3;903213578;FERRI;32219;CORTES XXX;32219;CORTEXXX;2018-07-26 00:00:00;2018-07-26 00:00:00;1;6;9;;;0.00;0.00;169.22640;169.22640;0.00
@@ -43,7 +43,7 @@ Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encount
 1;AXXXS;2-04412XXX-00-6;1460293198XXX;1460293198;;3;903009163;CORDOBA VELEZ;24911;AMADO JXXX;24911;AMADOXXX;2018-07-04 00:00:00;2018-07-04 00:00:00;1;6;9;;;0.00;0.00;250.85200;250.85200;0.00
 
 CMBD3 Example
-Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;CoverageEligibilityResponse_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Item_Net;Claim_Insurance_ClaimResponse_Item_Adjudication_Value
+Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Response_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Item_Net;Claim_Response_Item_Adjudication_Value
 1;AXXXS;2-05897XXX-03-5;40000551XXX;A;40000551;5234696;SINLIP 10 mg comp.rec.x 30;2018-09-17 00:00:00;1;507.30;152.19;355.11
 1;AXXXS;2-05897XXX-03-5;40000551XXX;A;40000551;5489266;LERCADIP 20 mg comp.rec.x 30;2018-09-17 00:00:00;1;701.03;210.31;490.72
 1;AXXXS;2-07773XXX-00-5;40000328XXX;A;40000328;4950531;XALACOM gts.oft.x 2.5 ml;2018-09-17 00:00:00;1;456.79;137.04;319.75
@@ -51,7 +51,7 @@ Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encount
 1;AXXXS;2-07773XXX-00-5;40000820XXX;A;40000820;4101682;LOPLAC 50 mg comp.x 30;2018-09-17 00:00:00;1;465.45;232.73;232.72
 
 CMBD4 Example
-Organization_Identifier;Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;EpisodeOfCare_Text;EpisodeOfCare_Format
+Organization_Identifier;Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;Encounter_EpisodeOfCare_Text;Encounter_EpisodeOfCare_Format
 1;1;1036264XXX;3897173;fisura,dolor de cuello,diarrea,fiebre;;Texto del historial completo;TXT
 1;1;1020404XXX;3901875;calambre,sangrado,resfrio;Procedimiento 1,Procedimiento 2,procedimiento 3;Texto del historial completo 2;TXT
 1;1;1023656XXX;3907042;desgarro,fisura de columna;Procedimiento 3,Procedimiento 4,Procedimiento 5;Texto del historial completo 3;TXT
