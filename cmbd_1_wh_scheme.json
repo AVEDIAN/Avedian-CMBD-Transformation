@@ -1,7 +1,7 @@
 [
   {
-    "Organization_Identifier": "text",
-    "Organization_PartOf": 1,
+    "Encounter_ServiceProvider_Organization_Identifier": "text",
+    "Encounter_ServiceProvider_Organization_PartOf": 1,
     "Encounter_Hospitalization_Origin_PartOf": "text",
     "Encounter_Hospitalization_Origin": "text",
     "Encounter_Hospitalization_Origin_Name": "text",
@@ -20,8 +20,8 @@
     "Encounter_EpisodeOfCare_CareManager_Team": "text",
     "Encounter_EpisodeOfCare_CareManager_Team_Qualification_Code": "text",
     "Encounter_EpisodeOfCare_Diagnosis_Condition_Severity": 1,
-    "Claim_Total": 1.5,
-    "Claim_Items_UnitPrice": 1.5,
+    "Encounter_Claims_Total": 1.5,
+    "Encounter_Claims_Items_Net": 1.5,
     "Encounter_Class": "text"
   }
 ]

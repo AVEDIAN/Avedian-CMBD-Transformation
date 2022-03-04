@@ -1,4 +1,4 @@
-Organization_Identifier;Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;Encounter_EpisodeOfCare_Text;Encounter_EpisodeOfCare_Format
+Encounter_ServiceProvider_Organization_Identifier;Encounter_ServiceProvider_Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;Encounter_EpisodeOfCare_Text;Encounter_EpisodeOfCare_Format
 1;1;1036264XXX;3897173;fisura,dolor de cuello,diarrea,fiebre;;Texto del historial completo;TXT
 1;1;1020404XXX;3901875;calambre,sangrado,resfrio;Procedimiento 1,Procedimiento 2,procedimiento 3;Texto del historial completo 2;TXT
 1;1;1023656XXX;3907042;desgarro,fisura de columna;Procedimiento 3,Procedimiento 4,Procedimiento 5;Texto del historial completo 3;TXT

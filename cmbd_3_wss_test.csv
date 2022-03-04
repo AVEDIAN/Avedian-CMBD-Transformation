@@ -1,4 +1,4 @@
-Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Response_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Item_Net;Claim_Response_Item_Adjudication_Value
+Claim_Insurer_Organization_Identifier;Claim_Insurer_Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Response_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Response_Item_Adjudication_Amount;Claim_Response_Item_Adjudication_Amount_Copay
 1;AXXXS;2-05897XXX-03-5;40000551XXX;A;40000551;5234696;SINLIP 10 mg comp.rec.x 30;2018-09-17 00:00:00;1;507.30;152.19;355.11
 1;AXXXS;2-05897XXX-03-5;40000551XXX;A;40000551;5489266;LERCADIP 20 mg comp.rec.x 30;2018-09-17 00:00:00;1;701.03;210.31;490.72
 1;AXXXS;2-07773XXX-00-5;40000328XXX;A;40000328;4950531;XALACOM gts.oft.x 2.5 ml;2018-09-17 00:00:00;1;456.79;137.04;319.75

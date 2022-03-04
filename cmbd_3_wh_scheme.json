@@ -1,7 +1,7 @@
 [
   {
-    "Organization_Identifier": "text",
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": "text",
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": "text",
     "Claim_Encounter_Identifier": "text",
     "Claim_Payee_Party": "text",
@@ -15,6 +15,6 @@
     "Claim_Item_Quantity": 1.5,
     "Claim_Item_UnitPrice": 1.5,
     "Claim_Item_Net": 1.5,
-    "Claim_Response_Item_Adjudication_Value": 1.5
+    "Claim_Response_Item_Adjudication_Amount": 1.5
   }
 ]

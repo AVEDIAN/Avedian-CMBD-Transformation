@@ -1,7 +1,7 @@
 [
   {
-    "Organization_Identifier": 1,
-    "Organization_Name": "text",
+    "Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Encounter_ServiceProvider_Organization_Name": "text",
     "Encounter_Subject_Patient_Identifier": "text",
     "Encounter_Identifier": "text",
     "Encounter_Diagnosis_Note": "text",

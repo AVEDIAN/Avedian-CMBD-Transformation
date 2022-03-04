@@ -1,7 +1,7 @@
 [
   {
-    "Organization_Identifier": 1,
-    "Organization_Name": 1,
+    "Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Encounter_ServiceProvider_Organization_Name": 1,
     "Encounter_Subject_Patient_Identifier": "1036264XXX",
     "Encounter_Identifier": 3897173,
     "Encounter_Diagnosis_Note": "fisura,dolor de cuello,diarrea,fiebre",
@@ -10,8 +10,8 @@
     "Encounter_EpisodeOfCare_Format": "TXT"
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_Name": 1,
+    "Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Encounter_ServiceProvider_Organization_Name": 1,
     "Encounter_Subject_Patient_Identifier": "1020404XXX",
     "Encounter_Identifier": 3901875,
     "Encounter_Diagnosis_Note": "calambre,sangrado,resfrio",
@@ -20,8 +20,8 @@
     "Encounter_EpisodeOfCare_Format": "TXT"
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_Name": 1,
+    "Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Encounter_ServiceProvider_Organization_Name": 1,
     "Encounter_Subject_Patient_Identifier": "1023656XXX",
     "Encounter_Identifier": 3907042,
     "Encounter_Diagnosis_Note": "desgarro,fisura de columna",

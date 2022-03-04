@@ -1,7 +1,7 @@
 [
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-05897XXX-03-5",
       "Claim_Encounter_Identifier": "40000551XXX",
       "Claim_Response_Outcome": "A",
@@ -11,12 +11,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 507.3,
-      "Claim_Item_Net": 152.19,
-      "Claim_Response_Item_Adjudication_Value": 355.11
+      "Claim_Response_Item_Adjudication_Amount": 152.19,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 355.11
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-05897XXX-03-5",
       "Claim_Encounter_Identifier": "40000551XXX",
       "Claim_Response_Outcome": "A",
@@ -26,12 +26,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 701.03,
-      "Claim_Item_Net": 210.31,
-      "Claim_Response_Item_Adjudication_Value": 490.72
+      "Claim_Response_Item_Adjudication_Amount": 210.31,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 490.72
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-07773XXX-00-5",
       "Claim_Encounter_Identifier": "40000328XXX",
       "Claim_Response_Outcome": "A",
@@ -41,12 +41,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 456.79,
-      "Claim_Item_Net": 137.04,
-      "Claim_Response_Item_Adjudication_Value": 319.75
+      "Claim_Response_Item_Adjudication_Amount": 137.04,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 319.75
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-07773XXX-00-5",
       "Claim_Encounter_Identifier": "40000328XXX",
       "Claim_Response_Outcome": "A",
@@ -56,12 +56,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 533.25,
-      "Claim_Item_Net": 266.63,
-      "Claim_Response_Item_Adjudication_Value": 266.62
+      "Claim_Response_Item_Adjudication_Amount": 266.63,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 266.62
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-07773XXX-00-5",
       "Claim_Encounter_Identifier": "40000820XXX",
       "Claim_Response_Outcome": "A",
@@ -71,12 +71,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 465.45,
-      "Claim_Item_Net": 232.73,
-      "Claim_Response_Item_Adjudication_Value": 232.72
+      "Claim_Response_Item_Adjudication_Amount": 232.73,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 232.72
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-07773XXX-00-5",
       "Claim_Encounter_Identifier": "40000820XXX",
       "Claim_Response_Outcome": "A",
@@ -86,12 +86,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 228.3,
-      "Claim_Item_Net": 114.15,
-      "Claim_Response_Item_Adjudication_Value": 114.15
+      "Claim_Response_Item_Adjudication_Amount": 114.15,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 114.15
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06650XXX-00-2",
       "Claim_Encounter_Identifier": "40000034XXX",
       "Claim_Response_Outcome": "A",
@@ -101,12 +101,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 644.38,
-      "Claim_Item_Net": 193.31,
-      "Claim_Response_Item_Adjudication_Value": 451.07
+      "Claim_Response_Item_Adjudication_Amount": 193.31,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 451.07
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06650XXX-00-2",
       "Claim_Encounter_Identifier": "40000034XXX",
       "Claim_Response_Outcome": "A",
@@ -116,12 +116,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 789.43,
-      "Claim_Item_Net": 236.83,
-      "Claim_Response_Item_Adjudication_Value": 552.6
+      "Claim_Response_Item_Adjudication_Amount": 236.83,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 552.6
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-12762XXX-00-3",
       "Claim_Encounter_Identifier": "40000379XXX",
       "Claim_Response_Outcome": "A",
@@ -131,12 +131,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 737.28,
-      "Claim_Item_Net": 221.18,
-      "Claim_Response_Item_Adjudication_Value": 516.1
+      "Claim_Response_Item_Adjudication_Amount": 221.18,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 516.1
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-12762XXX-00-3",
       "Claim_Encounter_Identifier": "40000379XXX",
       "Claim_Response_Outcome": "A",
@@ -146,12 +146,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 282.28,
-      "Claim_Item_Net": 141.14,
-      "Claim_Response_Item_Adjudication_Value": 141.14
+      "Claim_Response_Item_Adjudication_Amount": 141.14,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 141.14
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-25858XXX-01-5",
       "Claim_Encounter_Identifier": "40000090XXX",
       "Claim_Response_Outcome": "A",
@@ -161,12 +161,12 @@
       "Claim_Item_ServicedDate": "2018-09-16 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 259.4,
-      "Claim_Item_Net": 129.7,
-      "Claim_Response_Item_Adjudication_Value": 129.7
+      "Claim_Response_Item_Adjudication_Amount": 129.7,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 129.7
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14290XXX-00-1",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -176,12 +176,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 280.79,
-      "Claim_Item_Net": 140.4,
-      "Claim_Response_Item_Adjudication_Value": 140.39
+      "Claim_Response_Item_Adjudication_Amount": 140.4,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 140.39
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-08620XXX-01-5",
       "Claim_Encounter_Identifier": "40000998XXX",
       "Claim_Response_Outcome": "A",
@@ -191,12 +191,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 163,
-      "Claim_Item_Net": 81.5,
-      "Claim_Response_Item_Adjudication_Value": 81.5
+      "Claim_Response_Item_Adjudication_Amount": 81.5,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 81.5
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06514XXX-00-8",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -206,12 +206,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1759.79,
-      "Claim_Item_Net": 527.94,
-      "Claim_Response_Item_Adjudication_Value": 1231.85
+      "Claim_Response_Item_Adjudication_Amount": 527.94,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 1231.85
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06514XXX-00-8",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -221,12 +221,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 645.81,
-      "Claim_Item_Net": 193.74,
-      "Claim_Response_Item_Adjudication_Value": 452.07
+      "Claim_Response_Item_Adjudication_Amount": 193.74,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 452.07
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06507XXX-00-4",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -236,12 +236,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 900.16,
-      "Claim_Item_Net": 270.05,
-      "Claim_Response_Item_Adjudication_Value": 630.11
+      "Claim_Response_Item_Adjudication_Amount": 270.05,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 630.11
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06507XXX-00-4",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -251,12 +251,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 171.82,
-      "Claim_Item_Net": 85.91,
-      "Claim_Response_Item_Adjudication_Value": 85.91
+      "Claim_Response_Item_Adjudication_Amount": 85.91,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 85.91
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06514XXX-00-8",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -266,12 +266,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 697.62,
-      "Claim_Item_Net": 697.62,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 697.62,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06514XXX-00-8",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -281,12 +281,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 599.21,
-      "Claim_Item_Net": 299.61,
-      "Claim_Response_Item_Adjudication_Value": 299.6
+      "Claim_Response_Item_Adjudication_Amount": 299.61,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 299.6
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-13962XXX-00-7",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -296,12 +296,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 175.2,
-      "Claim_Item_Net": 87.6,
-      "Claim_Response_Item_Adjudication_Value": 87.6
+      "Claim_Response_Item_Adjudication_Amount": 87.6,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 87.6
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-13535XXX-00-2",
       "Claim_Encounter_Identifier": "40000595XXX",
       "Claim_Response_Outcome": "A",
@@ -311,12 +311,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 427.09,
-      "Claim_Item_Net": 213.55,
-      "Claim_Response_Item_Adjudication_Value": 213.54
+      "Claim_Response_Item_Adjudication_Amount": 213.55,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 213.54
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-13535XXX-00-2",
       "Claim_Encounter_Identifier": "40000595XXX",
       "Claim_Response_Outcome": "A",
@@ -326,12 +326,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 176.5,
-      "Claim_Item_Net": 88.25,
-      "Claim_Response_Item_Adjudication_Value": 88.25
+      "Claim_Response_Item_Adjudication_Amount": 88.25,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 88.25
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11974XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -341,12 +341,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 247.1,
-      "Claim_Item_Net": 123.55,
-      "Claim_Response_Item_Adjudication_Value": 123.55
+      "Claim_Response_Item_Adjudication_Amount": 123.55,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 123.55
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11974XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -356,12 +356,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 273.81,
-      "Claim_Item_Net": 136.91,
-      "Claim_Response_Item_Adjudication_Value": 136.9
+      "Claim_Response_Item_Adjudication_Amount": 136.91,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 136.9
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11974XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -371,12 +371,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 401.69,
-      "Claim_Item_Net": 401.69,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 401.69,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11974XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -386,12 +386,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 604,
-      "Claim_Item_Net": 302,
-      "Claim_Response_Item_Adjudication_Value": 302
+      "Claim_Response_Item_Adjudication_Amount": 302,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 302
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06369XXX-00-2",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -401,12 +401,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1030.36,
-      "Claim_Item_Net": 309.11,
-      "Claim_Response_Item_Adjudication_Value": 721.25
+      "Claim_Response_Item_Adjudication_Amount": 309.11,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 721.25
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10489XXX-08-3",
       "Claim_Encounter_Identifier": "40000582XXX",
       "Claim_Response_Outcome": "A",
@@ -416,12 +416,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 723,
-      "Claim_Item_Net": 216.9,
-      "Claim_Response_Item_Adjudication_Value": 506.1
+      "Claim_Response_Item_Adjudication_Amount": 216.9,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 506.1
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10489XXX-08-3",
       "Claim_Encounter_Identifier": "40000582XXX",
       "Claim_Response_Outcome": "A",
@@ -431,12 +431,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 253.14,
-      "Claim_Item_Net": 75.94,
-      "Claim_Response_Item_Adjudication_Value": 177.2
+      "Claim_Response_Item_Adjudication_Amount": 75.94,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 177.2
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07976XXX-00-4",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -446,12 +446,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1826.49,
-      "Claim_Item_Net": 547.95,
-      "Claim_Response_Item_Adjudication_Value": 1278.54
+      "Claim_Response_Item_Adjudication_Amount": 547.95,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 1278.54
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07976XXX-00-4",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -461,12 +461,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 263.62,
-      "Claim_Item_Net": 131.81,
-      "Claim_Response_Item_Adjudication_Value": 131.81
+      "Claim_Response_Item_Adjudication_Amount": 131.81,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 131.81
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16158XXX-00-9",
       "Claim_Encounter_Identifier": "40000803XXX",
       "Claim_Response_Outcome": "A",
@@ -476,12 +476,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 697.62,
-      "Claim_Item_Net": 697.62,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 697.62,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16158XXX-00-9",
       "Claim_Encounter_Identifier": "40000803XXX",
       "Claim_Response_Outcome": "A",
@@ -491,12 +491,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 239.28,
-      "Claim_Item_Net": 239.28,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 239.28,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-29029XXX-02-0",
       "Claim_Encounter_Identifier": "40000070XXX",
       "Claim_Response_Outcome": "A",
@@ -506,12 +506,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 353.99,
-      "Claim_Item_Net": 177,
-      "Claim_Response_Item_Adjudication_Value": 176.99
+      "Claim_Response_Item_Adjudication_Amount": 177,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 176.99
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14921XXX-01-9",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -521,12 +521,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 359.53,
-      "Claim_Item_Net": 179.77,
-      "Claim_Response_Item_Adjudication_Value": 179.76
+      "Claim_Response_Item_Adjudication_Amount": 179.77,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 179.76
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14921XXX-01-9",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -536,12 +536,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 281.73,
-      "Claim_Item_Net": 140.87,
-      "Claim_Response_Item_Adjudication_Value": 140.86
+      "Claim_Response_Item_Adjudication_Amount": 140.87,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 140.86
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10774XXX-01-1",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -551,12 +551,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 841.86,
-      "Claim_Item_Net": 252.56,
-      "Claim_Response_Item_Adjudication_Value": 589.3
+      "Claim_Response_Item_Adjudication_Amount": 252.56,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 589.3
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10774XXX-01-1",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -566,12 +566,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 252,
-      "Claim_Item_Net": 75.6,
-      "Claim_Response_Item_Adjudication_Value": 176.4
+      "Claim_Response_Item_Adjudication_Amount": 75.6,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 176.4
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-22770XXX-03-0",
       "Claim_Encounter_Identifier": "40000526XXX",
       "Claim_Response_Outcome": "A",
@@ -581,12 +581,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 248,
-      "Claim_Item_Net": 124,
-      "Claim_Response_Item_Adjudication_Value": 124
+      "Claim_Response_Item_Adjudication_Amount": 124,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 124
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07693XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -596,12 +596,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 431.16,
-      "Claim_Item_Net": 431.16,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 431.16,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07693XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -611,12 +611,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 411.18,
-      "Claim_Item_Net": 411.18,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 411.18,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10377XXX-00-6",
       "Claim_Encounter_Identifier": "40000038XXX",
       "Claim_Response_Outcome": "A",
@@ -626,12 +626,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 888.79,
-      "Claim_Item_Net": 266.64,
-      "Claim_Response_Item_Adjudication_Value": 622.15
+      "Claim_Response_Item_Adjudication_Amount": 266.64,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 622.15
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10377XXX-00-6",
       "Claim_Encounter_Identifier": "40000038XXX",
       "Claim_Response_Outcome": "A",
@@ -641,12 +641,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 141.14,
-      "Claim_Item_Net": 70.57,
-      "Claim_Response_Item_Adjudication_Value": 70.57
+      "Claim_Response_Item_Adjudication_Amount": 70.57,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 70.57
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-33389XXX-00-5",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -656,12 +656,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 392.82,
-      "Claim_Item_Net": 196.41,
-      "Claim_Response_Item_Adjudication_Value": 196.41
+      "Claim_Response_Item_Adjudication_Amount": 196.41,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 196.41
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12209XXX-05-6",
       "Claim_Encounter_Identifier": "40000030XXX",
       "Claim_Response_Outcome": "A",
@@ -671,12 +671,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 436.15,
-      "Claim_Item_Net": 436.15,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 436.15,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12209XXX-05-6",
       "Claim_Encounter_Identifier": "40000030XXX",
       "Claim_Response_Outcome": "A",
@@ -686,12 +686,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 141.14,
-      "Claim_Item_Net": 70.57,
-      "Claim_Response_Item_Adjudication_Value": 70.57
+      "Claim_Response_Item_Adjudication_Amount": 70.57,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 70.57
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12209XXX-05-6",
       "Claim_Encounter_Identifier": "40000030XXX",
       "Claim_Response_Outcome": "A",
@@ -701,12 +701,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 103.24,
-      "Claim_Item_Net": 103.24,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 103.24,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12209XXX-05-6",
       "Claim_Encounter_Identifier": "40000030XXX",
       "Claim_Response_Outcome": "A",
@@ -716,12 +716,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 487.94,
-      "Claim_Item_Net": 487.94,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 487.94,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17012XXX-00-9",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -731,12 +731,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 296.42,
-      "Claim_Item_Net": 88.93,
-      "Claim_Response_Item_Adjudication_Value": 207.49
+      "Claim_Response_Item_Adjudication_Amount": 88.93,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 207.49
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17012XXX-00-9",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -746,12 +746,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 270.17,
-      "Claim_Item_Net": 135.09,
-      "Claim_Response_Item_Adjudication_Value": 135.08
+      "Claim_Response_Item_Adjudication_Amount": 135.09,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 135.08
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-23821XXX-00-9",
       "Claim_Encounter_Identifier": "40000754XXX",
       "Claim_Response_Outcome": "A",
@@ -761,12 +761,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 436.15,
-      "Claim_Item_Net": 436.15,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 436.15,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-23821XXX-00-9",
       "Claim_Encounter_Identifier": "40000754XXX",
       "Claim_Response_Outcome": "A",
@@ -776,12 +776,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 465.67,
-      "Claim_Item_Net": 465.67,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 465.67,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-23821XXX-00-9",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -791,12 +791,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 652.17,
-      "Claim_Item_Net": 195.65,
-      "Claim_Response_Item_Adjudication_Value": 456.52
+      "Claim_Response_Item_Adjudication_Amount": 195.65,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 456.52
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-23821XXX-00-9",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -806,12 +806,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 495.14,
-      "Claim_Item_Net": 247.57,
-      "Claim_Response_Item_Adjudication_Value": 247.57
+      "Claim_Response_Item_Adjudication_Amount": 247.57,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 247.57
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17012XXX-00-9",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -821,12 +821,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 505.29,
-      "Claim_Item_Net": 505.29,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 505.29,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17012XXX-00-9",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -836,12 +836,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 247.1,
-      "Claim_Item_Net": 123.55,
-      "Claim_Response_Item_Adjudication_Value": 123.55
+      "Claim_Response_Item_Adjudication_Amount": 123.55,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 123.55
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06697XXX-00-7",
       "Claim_Encounter_Identifier": "40000766XXX",
       "Claim_Response_Outcome": "A",
@@ -851,12 +851,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1055.69,
-      "Claim_Item_Net": 316.71,
-      "Claim_Response_Item_Adjudication_Value": 738.98
+      "Claim_Response_Item_Adjudication_Amount": 316.71,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 738.98
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06697XXX-00-7",
       "Claim_Encounter_Identifier": "40000766XXX",
       "Claim_Response_Outcome": "A",
@@ -866,12 +866,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 485.19,
-      "Claim_Item_Net": 242.6,
-      "Claim_Response_Item_Adjudication_Value": 242.59
+      "Claim_Response_Item_Adjudication_Amount": 242.6,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 242.59
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06697XXX-00-7",
       "Claim_Encounter_Identifier": "40000766XXX",
       "Claim_Response_Outcome": "A",
@@ -881,12 +881,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 499.26,
-      "Claim_Item_Net": 249.63,
-      "Claim_Response_Item_Adjudication_Value": 249.63
+      "Claim_Response_Item_Adjudication_Amount": 249.63,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 249.63
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -896,12 +896,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 154.59,
-      "Claim_Item_Net": 77.3,
-      "Claim_Response_Item_Adjudication_Value": 77.29
+      "Claim_Response_Item_Adjudication_Amount": 77.3,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 77.29
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -911,12 +911,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 269.3,
-      "Claim_Item_Net": 134.65,
-      "Claim_Response_Item_Adjudication_Value": 134.65
+      "Claim_Response_Item_Adjudication_Amount": 134.65,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 134.65
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07693XXX-01-4",
       "Claim_Encounter_Identifier": "40000595XXX",
       "Claim_Response_Outcome": "A",
@@ -926,12 +926,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 242.27,
-      "Claim_Item_Net": 121.14,
-      "Claim_Response_Item_Adjudication_Value": 121.13
+      "Claim_Response_Item_Adjudication_Amount": 121.14,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 121.13
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -941,12 +941,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 287.45,
-      "Claim_Item_Net": 143.73,
-      "Claim_Response_Item_Adjudication_Value": 143.72
+      "Claim_Response_Item_Adjudication_Amount": 143.73,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 143.72
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -956,12 +956,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 492,
-      "Claim_Item_Net": 246,
-      "Claim_Response_Item_Adjudication_Value": 246
+      "Claim_Response_Item_Adjudication_Amount": 246,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 246
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -971,12 +971,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 512.86,
-      "Claim_Item_Net": 153.86,
-      "Claim_Response_Item_Adjudication_Value": 359
+      "Claim_Response_Item_Adjudication_Amount": 153.86,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 359
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -986,12 +986,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1545.54,
-      "Claim_Item_Net": 463.66,
-      "Claim_Response_Item_Adjudication_Value": 1081.88
+      "Claim_Response_Item_Adjudication_Amount": 463.66,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 1081.88
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -1001,12 +1001,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 284.05,
-      "Claim_Item_Net": 85.22,
-      "Claim_Response_Item_Adjudication_Value": 198.83
+      "Claim_Response_Item_Adjudication_Amount": 85.22,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 198.83
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06386XXX-00-9",
       "Claim_Encounter_Identifier": "40000081XXX",
       "Claim_Response_Outcome": "A",
@@ -1016,12 +1016,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 188.78,
-      "Claim_Item_Net": 94.39,
-      "Claim_Response_Item_Adjudication_Value": 94.39
+      "Claim_Response_Item_Adjudication_Amount": 94.39,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 94.39
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12811XXX-00-2",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1031,12 +1031,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 768.33,
-      "Claim_Item_Net": 230.5,
-      "Claim_Response_Item_Adjudication_Value": 537.83
+      "Claim_Response_Item_Adjudication_Amount": 230.5,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 537.83
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07645XXX-02-1",
       "Claim_Encounter_Identifier": "40000470XXX",
       "Claim_Response_Outcome": "A",
@@ -1046,12 +1046,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 334.79,
-      "Claim_Item_Net": 100.44,
-      "Claim_Response_Item_Adjudication_Value": 234.35
+      "Claim_Response_Item_Adjudication_Amount": 100.44,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 234.35
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07645XXX-00-4",
       "Claim_Encounter_Identifier": "40000470XXX",
       "Claim_Response_Outcome": "A",
@@ -1061,12 +1061,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 250.63,
-      "Claim_Item_Net": 75.19,
-      "Claim_Response_Item_Adjudication_Value": 175.44
+      "Claim_Response_Item_Adjudication_Amount": 75.19,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 175.44
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07645XXX-02-1",
       "Claim_Encounter_Identifier": "40000470XXX",
       "Claim_Response_Outcome": "A",
@@ -1076,12 +1076,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 94.67,
-      "Claim_Item_Net": 47.34,
-      "Claim_Response_Item_Adjudication_Value": 47.33
+      "Claim_Response_Item_Adjudication_Amount": 47.34,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 47.33
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16947XXX-00-0",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1091,12 +1091,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 505.37,
-      "Claim_Item_Net": 505.37,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 505.37,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16947XXX-00-0",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1106,12 +1106,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 321.51,
-      "Claim_Item_Net": 321.51,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 321.51,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06385XXX-01-0",
       "Claim_Encounter_Identifier": "40000094XXX",
       "Claim_Response_Outcome": "A",
@@ -1121,12 +1121,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 206.09,
-      "Claim_Item_Net": 61.83,
-      "Claim_Response_Item_Adjudication_Value": 144.26
+      "Claim_Response_Item_Adjudication_Amount": 61.83,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 144.26
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06385XXX-01-0",
       "Claim_Encounter_Identifier": "40000094XXX",
       "Claim_Response_Outcome": "A",
@@ -1136,12 +1136,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 392.82,
-      "Claim_Item_Net": 196.41,
-      "Claim_Response_Item_Adjudication_Value": 196.41
+      "Claim_Response_Item_Adjudication_Amount": 196.41,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 196.41
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16947XXX-00-0",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1151,12 +1151,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 440.33,
-      "Claim_Item_Net": 440.33,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 440.33,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16947XXX-00-0",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1166,12 +1166,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 169.59,
-      "Claim_Item_Net": 84.8,
-      "Claim_Response_Item_Adjudication_Value": 84.79
+      "Claim_Response_Item_Adjudication_Amount": 84.8,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 84.79
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11053XXX-01-7",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1181,12 +1181,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 253.86,
-      "Claim_Item_Net": 126.93,
-      "Claim_Response_Item_Adjudication_Value": 126.93
+      "Claim_Response_Item_Adjudication_Amount": 126.93,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 126.93
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11053XXX-01-7",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1196,12 +1196,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 599.21,
-      "Claim_Item_Net": 299.61,
-      "Claim_Response_Item_Adjudication_Value": 299.6
+      "Claim_Response_Item_Adjudication_Amount": 299.61,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 299.6
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16947XXX-00-0",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1211,12 +1211,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 505.11,
-      "Claim_Item_Net": 151.53,
-      "Claim_Response_Item_Adjudication_Value": 353.58
+      "Claim_Response_Item_Adjudication_Amount": 151.53,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 353.58
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16947XXX-00-0",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1226,12 +1226,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 422.73,
-      "Claim_Item_Net": 126.82,
-      "Claim_Response_Item_Adjudication_Value": 295.91
+      "Claim_Response_Item_Adjudication_Amount": 126.82,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 295.91
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-21902XXX-00-6",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1241,12 +1241,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 522.48,
-      "Claim_Item_Net": 261.24,
-      "Claim_Response_Item_Adjudication_Value": 261.24
+      "Claim_Response_Item_Adjudication_Amount": 261.24,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 261.24
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-21902XXX-00-6",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1256,12 +1256,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 255.4,
-      "Claim_Item_Net": 127.7,
-      "Claim_Response_Item_Adjudication_Value": 127.7
+      "Claim_Response_Item_Adjudication_Amount": 127.7,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 127.7
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-9",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1271,12 +1271,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 317.09,
-      "Claim_Item_Net": 158.55,
-      "Claim_Response_Item_Adjudication_Value": 158.54
+      "Claim_Response_Item_Adjudication_Amount": 158.55,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 158.54
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-9",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1286,12 +1286,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 273.81,
-      "Claim_Item_Net": 136.91,
-      "Claim_Response_Item_Adjudication_Value": 136.9
+      "Claim_Response_Item_Adjudication_Amount": 136.91,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 136.9
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-2",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1301,12 +1301,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 239.77,
-      "Claim_Item_Net": 119.89,
-      "Claim_Response_Item_Adjudication_Value": 119.88
+      "Claim_Response_Item_Adjudication_Amount": 119.89,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 119.88
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-9",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1316,12 +1316,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 298.33,
-      "Claim_Item_Net": 89.5,
-      "Claim_Response_Item_Adjudication_Value": 208.83
+      "Claim_Response_Item_Adjudication_Amount": 89.5,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 208.83
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-9",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1331,12 +1331,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 239.77,
-      "Claim_Item_Net": 119.89,
-      "Claim_Response_Item_Adjudication_Value": 119.88
+      "Claim_Response_Item_Adjudication_Amount": 119.89,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 119.88
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-2",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1346,12 +1346,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 522.28,
-      "Claim_Item_Net": 261.14,
-      "Claim_Response_Item_Adjudication_Value": 261.14
+      "Claim_Response_Item_Adjudication_Amount": 261.14,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 261.14
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-2",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1361,12 +1361,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 393.13,
-      "Claim_Item_Net": 196.57,
-      "Claim_Response_Item_Adjudication_Value": 196.56
+      "Claim_Response_Item_Adjudication_Amount": 196.57,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 196.56
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10545XXX-00-9",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1376,12 +1376,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 422.73,
-      "Claim_Item_Net": 126.82,
-      "Claim_Response_Item_Adjudication_Value": 295.91
+      "Claim_Response_Item_Adjudication_Amount": 126.82,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 295.91
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-16684XXX-00-3",
       "Claim_Encounter_Identifier": "40000325XXX",
       "Claim_Response_Outcome": "A",
@@ -1391,12 +1391,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 514,
-      "Claim_Item_Net": 154.2,
-      "Claim_Response_Item_Adjudication_Value": 359.8
+      "Claim_Response_Item_Adjudication_Amount": 154.2,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 359.8
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-02784XXX-00-8",
       "Claim_Encounter_Identifier": "40000582XXX",
       "Claim_Response_Outcome": "A",
@@ -1406,12 +1406,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 608.11,
-      "Claim_Item_Net": 182.43,
-      "Claim_Response_Item_Adjudication_Value": 425.68
+      "Claim_Response_Item_Adjudication_Amount": 182.43,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 425.68
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-02784XXX-00-8",
       "Claim_Encounter_Identifier": "40000582XXX",
       "Claim_Response_Outcome": "A",
@@ -1421,12 +1421,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1055.12,
-      "Claim_Item_Net": 316.54,
-      "Claim_Response_Item_Adjudication_Value": 738.58
+      "Claim_Response_Item_Adjudication_Amount": 316.54,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 738.58
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06956XXX-00-8",
       "Claim_Encounter_Identifier": "40000522XXX",
       "Claim_Response_Outcome": "A",
@@ -1436,12 +1436,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 171.63,
-      "Claim_Item_Net": 85.82,
-      "Claim_Response_Item_Adjudication_Value": 85.81
+      "Claim_Response_Item_Adjudication_Amount": 85.82,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 85.81
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06956XXX-00-8",
       "Claim_Encounter_Identifier": "40000522XXX",
       "Claim_Response_Outcome": "A",
@@ -1451,12 +1451,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 154.59,
-      "Claim_Item_Net": 77.3,
-      "Claim_Response_Item_Adjudication_Value": 77.29
+      "Claim_Response_Item_Adjudication_Amount": 77.3,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 77.29
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06956XXX-00-8",
       "Claim_Encounter_Identifier": "40000522XXX",
       "Claim_Response_Outcome": "A",
@@ -1466,12 +1466,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 507.3,
-      "Claim_Item_Net": 152.19,
-      "Claim_Response_Item_Adjudication_Value": 355.11
+      "Claim_Response_Item_Adjudication_Amount": 152.19,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 355.11
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-31665XXX-00-5",
       "Claim_Encounter_Identifier": "40000154XXX",
       "Claim_Response_Outcome": "A",
@@ -1481,12 +1481,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 116.18,
-      "Claim_Item_Net": 58.09,
-      "Claim_Response_Item_Adjudication_Value": 58.09
+      "Claim_Response_Item_Adjudication_Amount": 58.09,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 58.09
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-12670XXX-00-2",
       "Claim_Encounter_Identifier": "40000154XXX",
       "Claim_Response_Outcome": "A",
@@ -1496,12 +1496,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1369.69,
-      "Claim_Item_Net": 684.85,
-      "Claim_Response_Item_Adjudication_Value": 684.84
+      "Claim_Response_Item_Adjudication_Amount": 684.85,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 684.84
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-25247XXX-01-0",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -1511,12 +1511,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 310.59,
-      "Claim_Item_Net": 155.3,
-      "Claim_Response_Item_Adjudication_Value": 155.29
+      "Claim_Response_Item_Adjudication_Amount": 155.3,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 155.29
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-25247XXX-01-0",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -1526,12 +1526,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 169.31,
-      "Claim_Item_Net": 84.66,
-      "Claim_Response_Item_Adjudication_Value": 84.65
+      "Claim_Response_Item_Adjudication_Amount": 84.66,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 84.65
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07994XXX-00-3",
       "Claim_Encounter_Identifier": "40000582XXX",
       "Claim_Response_Outcome": "A",
@@ -1541,12 +1541,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1027.19,
-      "Claim_Item_Net": 308.16,
-      "Claim_Response_Item_Adjudication_Value": 719.03
+      "Claim_Response_Item_Adjudication_Amount": 308.16,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 719.03
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-03887XXX-00-6",
       "Claim_Encounter_Identifier": "40000618XXX",
       "Claim_Response_Outcome": "A",
@@ -1556,12 +1556,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 148.41,
-      "Claim_Item_Net": 74.21,
-      "Claim_Response_Item_Adjudication_Value": 74.2
+      "Claim_Response_Item_Adjudication_Amount": 74.21,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 74.2
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-03887XXX-00-6",
       "Claim_Encounter_Identifier": "40000618XXX",
       "Claim_Response_Outcome": "A",
@@ -1571,12 +1571,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 339.34,
-      "Claim_Item_Net": 169.67,
-      "Claim_Response_Item_Adjudication_Value": 169.67
+      "Claim_Response_Item_Adjudication_Amount": 169.67,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 169.67
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10376XXX-00-0",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1586,12 +1586,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 526.46,
-      "Claim_Item_Net": 157.94,
-      "Claim_Response_Item_Adjudication_Value": 368.52
+      "Claim_Response_Item_Adjudication_Amount": 157.94,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 368.52
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10376XXX-00-0",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1601,12 +1601,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 267.86,
-      "Claim_Item_Net": 80.36,
-      "Claim_Response_Item_Adjudication_Value": 187.5
+      "Claim_Response_Item_Adjudication_Amount": 80.36,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 187.5
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10376XXX-00-0",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1616,12 +1616,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 430.23,
-      "Claim_Item_Net": 129.07,
-      "Claim_Response_Item_Adjudication_Value": 301.16
+      "Claim_Response_Item_Adjudication_Amount": 129.07,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 301.16
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10376XXX-00-0",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1631,12 +1631,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 281.86,
-      "Claim_Item_Net": 140.93,
-      "Claim_Response_Item_Adjudication_Value": 140.93
+      "Claim_Response_Item_Adjudication_Amount": 140.93,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 140.93
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17532XXX-00-8",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -1646,12 +1646,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 878.35,
-      "Claim_Item_Net": 263.51,
-      "Claim_Response_Item_Adjudication_Value": 614.84
+      "Claim_Response_Item_Adjudication_Amount": 263.51,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 614.84
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-17526XXX-07-4",
       "Claim_Encounter_Identifier": "40000807XXX",
       "Claim_Response_Outcome": "A",
@@ -1661,12 +1661,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 474,
-      "Claim_Item_Net": 237,
-      "Claim_Response_Item_Adjudication_Value": 237
+      "Claim_Response_Item_Adjudication_Amount": 237,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 237
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-17526XXX-07-4",
       "Claim_Encounter_Identifier": "40000807XXX",
       "Claim_Response_Outcome": "A",
@@ -1676,12 +1676,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 474,
-      "Claim_Item_Net": 237,
-      "Claim_Response_Item_Adjudication_Value": 237
+      "Claim_Response_Item_Adjudication_Amount": 237,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 237
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11204XXX-00-5",
       "Claim_Encounter_Identifier": "40000030XXX",
       "Claim_Response_Outcome": "A",
@@ -1691,12 +1691,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 734.5,
-      "Claim_Item_Net": 220.35,
-      "Claim_Response_Item_Adjudication_Value": 514.15
+      "Claim_Response_Item_Adjudication_Amount": 220.35,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 514.15
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11204XXX-00-5",
       "Claim_Encounter_Identifier": "40000030XXX",
       "Claim_Response_Outcome": "A",
@@ -1706,12 +1706,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1195.64,
-      "Claim_Item_Net": 597.82,
-      "Claim_Response_Item_Adjudication_Value": 597.82
+      "Claim_Response_Item_Adjudication_Amount": 597.82,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 597.82
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-11204XXX-01-3",
       "Claim_Encounter_Identifier": "40000825XXX",
       "Claim_Response_Outcome": "A",
@@ -1721,12 +1721,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 830.84,
-      "Claim_Item_Net": 415.42,
-      "Claim_Response_Item_Adjudication_Value": 415.42
+      "Claim_Response_Item_Adjudication_Amount": 415.42,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 415.42
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-29256XXX-03-9",
       "Claim_Encounter_Identifier": "40000801XXX",
       "Claim_Response_Outcome": "A",
@@ -1736,12 +1736,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 433.85,
-      "Claim_Item_Net": 216.93,
-      "Claim_Response_Item_Adjudication_Value": 216.92
+      "Claim_Response_Item_Adjudication_Amount": 216.93,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 216.92
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-03800XXX-00-8",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1751,12 +1751,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 228.65,
-      "Claim_Item_Net": 114.33,
-      "Claim_Response_Item_Adjudication_Value": 114.32
+      "Claim_Response_Item_Adjudication_Amount": 114.33,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 114.32
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14601XXX-00-2",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -1766,12 +1766,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 182.3,
-      "Claim_Item_Net": 54.69,
-      "Claim_Response_Item_Adjudication_Value": 127.61
+      "Claim_Response_Item_Adjudication_Amount": 54.69,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 127.61
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14601XXX-00-2",
       "Claim_Encounter_Identifier": "30000754XXX",
       "Claim_Response_Outcome": "A",
@@ -1781,12 +1781,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 175.2,
-      "Claim_Item_Net": 87.6,
-      "Claim_Response_Item_Adjudication_Value": 87.6
+      "Claim_Response_Item_Adjudication_Amount": 87.6,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 87.6
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10377XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1796,12 +1796,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 472.43,
-      "Claim_Item_Net": 141.73,
-      "Claim_Response_Item_Adjudication_Value": 330.7
+      "Claim_Response_Item_Adjudication_Amount": 141.73,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 330.7
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10377XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1811,12 +1811,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 264.21,
-      "Claim_Item_Net": 132.11,
-      "Claim_Response_Item_Adjudication_Value": 132.1
+      "Claim_Response_Item_Adjudication_Amount": 132.11,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 132.1
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10377XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1826,12 +1826,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 317.09,
-      "Claim_Item_Net": 317.09,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 317.09,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-10377XXX-00-6",
       "Claim_Encounter_Identifier": "40000581XXX",
       "Claim_Response_Outcome": "A",
@@ -1841,12 +1841,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 321.5,
-      "Claim_Item_Net": 96.45,
-      "Claim_Response_Item_Adjudication_Value": 225.05
+      "Claim_Response_Item_Adjudication_Amount": 96.45,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 225.05
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17531XXX-00-5",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1856,12 +1856,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 295.46,
-      "Claim_Item_Net": 88.64,
-      "Claim_Response_Item_Adjudication_Value": 206.82
+      "Claim_Response_Item_Adjudication_Amount": 88.64,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 206.82
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17531XXX-00-5",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1871,12 +1871,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 382.74,
-      "Claim_Item_Net": 191.37,
-      "Claim_Response_Item_Adjudication_Value": 191.37
+      "Claim_Response_Item_Adjudication_Amount": 191.37,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 191.37
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17531XXX-00-5",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1886,12 +1886,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 295.46,
-      "Claim_Item_Net": 88.64,
-      "Claim_Response_Item_Adjudication_Value": 206.82
+      "Claim_Response_Item_Adjudication_Amount": 88.64,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 206.82
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17531XXX-00-5",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1901,12 +1901,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 141.14,
-      "Claim_Item_Net": 70.57,
-      "Claim_Response_Item_Adjudication_Value": 70.57
+      "Claim_Response_Item_Adjudication_Amount": 70.57,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 70.57
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17531XXX-00-5",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1916,12 +1916,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 182.3,
-      "Claim_Item_Net": 54.69,
-      "Claim_Response_Item_Adjudication_Value": 127.61
+      "Claim_Response_Item_Adjudication_Amount": 54.69,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 127.61
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-17531XXX-00-5",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1931,12 +1931,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 276.67,
-      "Claim_Item_Net": 83,
-      "Claim_Response_Item_Adjudication_Value": 193.67
+      "Claim_Response_Item_Adjudication_Amount": 83,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 193.67
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28426XXX-00-3",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1946,12 +1946,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 149.8,
-      "Claim_Item_Net": 44.94,
-      "Claim_Response_Item_Adjudication_Value": 104.86
+      "Claim_Response_Item_Adjudication_Amount": 44.94,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 104.86
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28426XXX-00-3",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -1961,12 +1961,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 241.27,
-      "Claim_Item_Net": 120.64,
-      "Claim_Response_Item_Adjudication_Value": 120.63
+      "Claim_Response_Item_Adjudication_Amount": 120.64,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 120.63
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-16014XXX-01-6",
       "Claim_Encounter_Identifier": "40000702XXX",
       "Claim_Response_Outcome": "A",
@@ -1976,12 +1976,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 459.33,
-      "Claim_Item_Net": 137.8,
-      "Claim_Response_Item_Adjudication_Value": 321.53
+      "Claim_Response_Item_Adjudication_Amount": 137.8,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 321.53
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-16014XXX-01-6",
       "Claim_Encounter_Identifier": "40000702XXX",
       "Claim_Response_Outcome": "A",
@@ -1991,12 +1991,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 184.95,
-      "Claim_Item_Net": 55.49,
-      "Claim_Response_Item_Adjudication_Value": 129.46
+      "Claim_Response_Item_Adjudication_Amount": 55.49,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 129.46
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-27657XXX-05-0",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2006,12 +2006,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 230.02,
-      "Claim_Item_Net": 69.01,
-      "Claim_Response_Item_Adjudication_Value": 161.01
+      "Claim_Response_Item_Adjudication_Amount": 69.01,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 161.01
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-27657XXX-05-0",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2021,12 +2021,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 296.26,
-      "Claim_Item_Net": 148.13,
-      "Claim_Response_Item_Adjudication_Value": 148.13
+      "Claim_Response_Item_Adjudication_Amount": 148.13,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 148.13
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-27955XXX-00-0",
       "Claim_Encounter_Identifier": "40000456XXX",
       "Claim_Response_Outcome": "A",
@@ -2036,12 +2036,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1654.86,
-      "Claim_Item_Net": 1654.86,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 1654.86,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-27955XXX-00-0",
       "Claim_Encounter_Identifier": "40000456XXX",
       "Claim_Response_Outcome": "A",
@@ -2051,12 +2051,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 2,
       "Claim_Item_UnitPrice": 1138.24,
-      "Claim_Item_Net": 1138.24,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 1138.24,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-24653XXX-01-1",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2066,12 +2066,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 302.22,
-      "Claim_Item_Net": 151.11,
-      "Claim_Response_Item_Adjudication_Value": 151.11
+      "Claim_Response_Item_Adjudication_Amount": 151.11,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 151.11
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-24653XXX-01-1",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2081,12 +2081,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 177.72,
-      "Claim_Item_Net": 88.86,
-      "Claim_Response_Item_Adjudication_Value": 88.86
+      "Claim_Response_Item_Adjudication_Amount": 88.86,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 88.86
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-24653XXX-01-1",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2096,12 +2096,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 564.07,
-      "Claim_Item_Net": 564.07,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 564.07,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-24653XXX-01-1",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2111,12 +2111,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 401.69,
-      "Claim_Item_Net": 200.85,
-      "Claim_Response_Item_Adjudication_Value": 200.84
+      "Claim_Response_Item_Adjudication_Amount": 200.85,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 200.84
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-26151XXX-02-7",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2126,12 +2126,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 142.18,
-      "Claim_Item_Net": 42.65,
-      "Claim_Response_Item_Adjudication_Value": 99.53
+      "Claim_Response_Item_Adjudication_Amount": 42.65,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 99.53
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-06692XXX-00-4",
       "Claim_Encounter_Identifier": "40000816XXX",
       "Claim_Response_Outcome": "A",
@@ -2141,12 +2141,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 176.5,
-      "Claim_Item_Net": 88.25,
-      "Claim_Response_Item_Adjudication_Value": 88.25
+      "Claim_Response_Item_Adjudication_Amount": 88.25,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 88.25
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-26313XXX-04-6",
       "Claim_Encounter_Identifier": "40000717XXX",
       "Claim_Response_Outcome": "A",
@@ -2156,12 +2156,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 299.5,
-      "Claim_Item_Net": 149.75,
-      "Claim_Response_Item_Adjudication_Value": 149.75
+      "Claim_Response_Item_Adjudication_Amount": 149.75,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 149.75
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-20785XXX-05-5",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2171,12 +2171,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 199.68,
-      "Claim_Item_Net": 59.9,
-      "Claim_Response_Item_Adjudication_Value": 139.78
+      "Claim_Response_Item_Adjudication_Amount": 59.9,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 139.78
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14292XXX-03-2",
       "Claim_Encounter_Identifier": "40000693XXX",
       "Claim_Response_Outcome": "A",
@@ -2186,12 +2186,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 387.09,
-      "Claim_Item_Net": 193.55,
-      "Claim_Response_Item_Adjudication_Value": 193.54
+      "Claim_Response_Item_Adjudication_Amount": 193.55,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 193.54
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14292XXX-00-8",
       "Claim_Encounter_Identifier": "40000610XXX",
       "Claim_Response_Outcome": "A",
@@ -2201,12 +2201,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 312.42,
-      "Claim_Item_Net": 93.73,
-      "Claim_Response_Item_Adjudication_Value": 218.69
+      "Claim_Response_Item_Adjudication_Amount": 93.73,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 218.69
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14292XXX-07-5",
       "Claim_Encounter_Identifier": "40000568XXX",
       "Claim_Response_Outcome": "A",
@@ -2216,12 +2216,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 135.8,
-      "Claim_Item_Net": 135.8,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 135.8,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14292XXX-07-5",
       "Claim_Encounter_Identifier": "40000568XXX",
       "Claim_Response_Outcome": "A",
@@ -2231,12 +2231,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1187.72,
-      "Claim_Item_Net": 1187.72,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 1187.72,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14292XXX-01-6",
       "Claim_Encounter_Identifier": "40000568XXX",
       "Claim_Response_Outcome": "A",
@@ -2246,12 +2246,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 195.57,
-      "Claim_Item_Net": 97.79,
-      "Claim_Response_Item_Adjudication_Value": 97.78
+      "Claim_Response_Item_Adjudication_Amount": 97.79,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 97.78
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-14292XXX-07-5",
       "Claim_Encounter_Identifier": "40000568XXX",
       "Claim_Response_Outcome": "A",
@@ -2261,12 +2261,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 104.43,
-      "Claim_Item_Net": 104.43,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 104.43,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07983XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2276,12 +2276,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 171.26,
-      "Claim_Item_Net": 85.63,
-      "Claim_Response_Item_Adjudication_Value": 85.63
+      "Claim_Response_Item_Adjudication_Amount": 85.63,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 85.63
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07983XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2291,12 +2291,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 173.32,
-      "Claim_Item_Net": 86.66,
-      "Claim_Response_Item_Adjudication_Value": 86.66
+      "Claim_Response_Item_Adjudication_Amount": 86.66,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 86.66
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2306,12 +2306,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2321,12 +2321,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2336,12 +2336,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2351,12 +2351,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07983XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2366,12 +2366,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 1055.69,
-      "Claim_Item_Net": 316.71,
-      "Claim_Response_Item_Adjudication_Value": 738.98
+      "Claim_Response_Item_Adjudication_Amount": 316.71,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 738.98
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2381,12 +2381,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2396,12 +2396,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2411,12 +2411,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-28852XXX-02-8",
       "Claim_Encounter_Identifier": "40000700XXX",
       "Claim_Response_Outcome": "A",
@@ -2426,12 +2426,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 439.55,
-      "Claim_Item_Net": 219.78,
-      "Claim_Response_Item_Adjudication_Value": 219.77
+      "Claim_Response_Item_Adjudication_Amount": 219.78,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 219.77
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07983XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2441,12 +2441,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 456.56,
-      "Claim_Item_Net": 456.56,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 456.56,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07983XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2456,12 +2456,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 706.53,
-      "Claim_Item_Net": 211.96,
-      "Claim_Response_Item_Adjudication_Value": 494.57
+      "Claim_Response_Item_Adjudication_Amount": 211.96,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 494.57
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07983XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2471,12 +2471,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 505.11,
-      "Claim_Item_Net": 151.53,
-      "Claim_Response_Item_Adjudication_Value": 353.58
+      "Claim_Response_Item_Adjudication_Amount": 151.53,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 353.58
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-04979XXX-00-0",
       "Claim_Encounter_Identifier": "40000024XXX",
       "Claim_Response_Outcome": "A",
@@ -2486,12 +2486,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 319.02,
-      "Claim_Item_Net": 95.71,
-      "Claim_Response_Item_Adjudication_Value": 223.31
+      "Claim_Response_Item_Adjudication_Amount": 95.71,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 223.31
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-04979XXX-00-0",
       "Claim_Encounter_Identifier": "40000024XXX",
       "Claim_Response_Outcome": "A",
@@ -2501,12 +2501,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 176.57,
-      "Claim_Item_Net": 88.29,
-      "Claim_Response_Item_Adjudication_Value": 88.28
+      "Claim_Response_Item_Adjudication_Amount": 88.29,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 88.28
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-11744XXX-13-4",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2516,12 +2516,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 377.52,
-      "Claim_Item_Net": 113.26,
-      "Claim_Response_Item_Adjudication_Value": 264.26
+      "Claim_Response_Item_Adjudication_Amount": 113.26,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 264.26
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-11744XXX-13-4",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2531,12 +2531,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 168.36,
-      "Claim_Item_Net": 50.51,
-      "Claim_Response_Item_Adjudication_Value": 117.85
+      "Claim_Response_Item_Adjudication_Amount": 50.51,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 117.85
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-21307XXX-00-8",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2546,12 +2546,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 329.6,
-      "Claim_Item_Net": 164.8,
-      "Claim_Response_Item_Adjudication_Value": 164.8
+      "Claim_Response_Item_Adjudication_Amount": 164.8,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 164.8
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-22224XXX-00-1",
       "Claim_Encounter_Identifier": "40000753XXX",
       "Claim_Response_Outcome": "A",
@@ -2561,12 +2561,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 407.66,
-      "Claim_Item_Net": 407.66,
-      "Claim_Response_Item_Adjudication_Value": 0
+      "Claim_Response_Item_Adjudication_Amount": 407.66,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 0
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-29201XXX-03-1",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2576,12 +2576,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 142.18,
-      "Claim_Item_Net": 42.65,
-      "Claim_Response_Item_Adjudication_Value": 99.53
+      "Claim_Response_Item_Adjudication_Amount": 42.65,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 99.53
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-04564XXX-00-1",
       "Claim_Encounter_Identifier": "40000129XXX",
       "Claim_Response_Outcome": "A",
@@ -2591,12 +2591,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 900.16,
-      "Claim_Item_Net": 270.05,
-      "Claim_Response_Item_Adjudication_Value": 630.11
+      "Claim_Response_Item_Adjudication_Amount": 270.05,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 630.11
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-04564XXX-00-1",
       "Claim_Encounter_Identifier": "40000129XXX",
       "Claim_Response_Outcome": "A",
@@ -2606,12 +2606,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 696.27,
-      "Claim_Item_Net": 208.88,
-      "Claim_Response_Item_Adjudication_Value": 487.39
+      "Claim_Response_Item_Adjudication_Amount": 208.88,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 487.39
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-26672XXX-03-7",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2621,12 +2621,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 423.64,
-      "Claim_Item_Net": 211.82,
-      "Claim_Response_Item_Adjudication_Value": 211.82
+      "Claim_Response_Item_Adjudication_Amount": 211.82,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 211.82
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-26672XXX-03-7",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2636,12 +2636,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 423.64,
-      "Claim_Item_Net": 211.82,
-      "Claim_Response_Item_Adjudication_Value": 211.82
+      "Claim_Response_Item_Adjudication_Amount": 211.82,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 211.82
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-22567XXX-00-7",
       "Claim_Encounter_Identifier": "40000815XXX",
       "Claim_Response_Outcome": "A",
@@ -2651,12 +2651,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 368.46,
-      "Claim_Item_Net": 110.54,
-      "Claim_Response_Item_Adjudication_Value": 257.92
+      "Claim_Response_Item_Adjudication_Amount": 110.54,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 257.92
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-22567XXX-00-7",
       "Claim_Encounter_Identifier": "40000815XXX",
       "Claim_Response_Outcome": "A",
@@ -2666,12 +2666,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 176.5,
-      "Claim_Item_Net": 52.95,
-      "Claim_Response_Item_Adjudication_Value": 123.55
+      "Claim_Response_Item_Adjudication_Amount": 52.95,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 123.55
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12669XXX-00-9",
       "Claim_Encounter_Identifier": "40000815XXX",
       "Claim_Response_Outcome": "A",
@@ -2681,12 +2681,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 918.13,
-      "Claim_Item_Net": 459.07,
-      "Claim_Response_Item_Adjudication_Value": 459.06
+      "Claim_Response_Item_Adjudication_Amount": 459.07,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 459.06
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-12669XXX-00-9",
       "Claim_Encounter_Identifier": "40000815XXX",
       "Claim_Response_Outcome": "A",
@@ -2696,12 +2696,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 217.32,
-      "Claim_Item_Net": 108.66,
-      "Claim_Response_Item_Adjudication_Value": 108.66
+      "Claim_Response_Item_Adjudication_Amount": 108.66,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 108.66
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-25756XXX-05-5",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2711,12 +2711,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 230.02,
-      "Claim_Item_Net": 69.01,
-      "Claim_Response_Item_Adjudication_Value": 161.01
+      "Claim_Response_Item_Adjudication_Amount": 69.01,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 161.01
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-25756XXX-05-5",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2726,12 +2726,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 276.67,
-      "Claim_Item_Net": 138.34,
-      "Claim_Response_Item_Adjudication_Value": 138.33
+      "Claim_Response_Item_Adjudication_Amount": 138.34,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 138.33
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-25756XXX-05-5",
       "Claim_Encounter_Identifier": "40000583XXX",
       "Claim_Response_Outcome": "A",
@@ -2741,12 +2741,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 169.31,
-      "Claim_Item_Net": 84.66,
-      "Claim_Response_Item_Adjudication_Value": 84.65
+      "Claim_Response_Item_Adjudication_Amount": 84.66,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 84.65
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-31602XXX-00-0",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2756,12 +2756,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 445.36,
-      "Claim_Item_Net": 222.68,
-      "Claim_Response_Item_Adjudication_Value": 222.68
+      "Claim_Response_Item_Adjudication_Amount": 222.68,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 222.68
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-20870XXX-00-5",
       "Claim_Encounter_Identifier": "40000452XXX",
       "Claim_Response_Outcome": "A",
@@ -2771,12 +2771,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 155.66,
-      "Claim_Item_Net": 77.83,
-      "Claim_Response_Item_Adjudication_Value": 77.83
+      "Claim_Response_Item_Adjudication_Amount": 77.83,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 77.83
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-06257XXX-00-8",
       "Claim_Encounter_Identifier": "40000596XXX",
       "Claim_Response_Outcome": "A",
@@ -2786,12 +2786,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 679.69,
-      "Claim_Item_Net": 203.91,
-      "Claim_Response_Item_Adjudication_Value": 475.78
+      "Claim_Response_Item_Adjudication_Amount": 203.91,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 475.78
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-06257XXX-00-8",
       "Claim_Encounter_Identifier": "40000596XXX",
       "Claim_Response_Outcome": "A",
@@ -2801,12 +2801,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 451.6,
-      "Claim_Item_Net": 225.8,
-      "Claim_Response_Item_Adjudication_Value": 225.8
+      "Claim_Response_Item_Adjudication_Amount": 225.8,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 225.8
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-16614XXX-00-3",
       "Claim_Encounter_Identifier": "40000004XXX",
       "Claim_Response_Outcome": "A",
@@ -2816,12 +2816,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 382.74,
-      "Claim_Item_Net": 191.37,
-      "Claim_Response_Item_Adjudication_Value": 191.37
+      "Claim_Response_Item_Adjudication_Amount": 191.37,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 191.37
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-16614XXX-00-3",
       "Claim_Encounter_Identifier": "40000004XXX",
       "Claim_Response_Outcome": "A",
@@ -2831,12 +2831,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 623.79,
-      "Claim_Item_Net": 311.9,
-      "Claim_Response_Item_Adjudication_Value": 311.89
+      "Claim_Response_Item_Adjudication_Amount": 311.9,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 311.89
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10772XXX-04-5",
       "Claim_Encounter_Identifier": "40000712XXX",
       "Claim_Response_Outcome": "A",
@@ -2846,12 +2846,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 644.38,
-      "Claim_Item_Net": 193.31,
-      "Claim_Response_Item_Adjudication_Value": 451.07
+      "Claim_Response_Item_Adjudication_Amount": 193.31,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 451.07
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-16614XXX-00-3",
       "Claim_Encounter_Identifier": "40000004XXX",
       "Claim_Response_Outcome": "A",
@@ -2861,12 +2861,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 319.02,
-      "Claim_Item_Net": 95.71,
-      "Claim_Response_Item_Adjudication_Value": 223.31
+      "Claim_Response_Item_Adjudication_Amount": 95.71,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 223.31
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-16614XXX-00-3",
       "Claim_Encounter_Identifier": "40000004XXX",
       "Claim_Response_Outcome": "A",
@@ -2876,12 +2876,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 251.85,
-      "Claim_Item_Net": 125.93,
-      "Claim_Response_Item_Adjudication_Value": 125.92
+      "Claim_Response_Item_Adjudication_Amount": 125.93,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 125.92
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-07693XXX-00-6",
       "Claim_Encounter_Identifier": "40000815XXX",
       "Claim_Response_Outcome": "A",
@@ -2891,12 +2891,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 584.49,
-      "Claim_Item_Net": 292.25,
-      "Claim_Response_Item_Adjudication_Value": 292.24
+      "Claim_Response_Item_Adjudication_Amount": 292.25,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 292.24
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-17842XXX-00-7",
       "Claim_Encounter_Identifier": "40000094XXX",
       "Claim_Response_Outcome": "A",
@@ -2906,12 +2906,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 259.4,
-      "Claim_Item_Net": 129.7,
-      "Claim_Response_Item_Adjudication_Value": 129.7
+      "Claim_Response_Item_Adjudication_Amount": 129.7,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 129.7
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-07346XXX-00-8",
       "Claim_Encounter_Identifier": "40000595XXX",
       "Claim_Response_Outcome": "A",
@@ -2921,12 +2921,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 189.8,
-      "Claim_Item_Net": 56.94,
-      "Claim_Response_Item_Adjudication_Value": 132.86
+      "Claim_Response_Item_Adjudication_Amount": 56.94,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 132.86
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-06259XXX-00-5",
       "Claim_Encounter_Identifier": "40000754XXX",
       "Claim_Response_Outcome": "A",
@@ -2936,12 +2936,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 382,
-      "Claim_Item_Net": 191,
-      "Claim_Response_Item_Adjudication_Value": 191
+      "Claim_Response_Item_Adjudication_Amount": 191,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 191
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "2-06259XXX-00-5",
       "Claim_Encounter_Identifier": "40000754XXX",
       "Claim_Response_Outcome": "A",
@@ -2951,12 +2951,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 229,
-      "Claim_Item_Net": 114.5,
-      "Claim_Response_Item_Adjudication_Value": 114.5
+      "Claim_Response_Item_Adjudication_Amount": 114.5,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 114.5
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10724XXX-10-1",
       "Claim_Encounter_Identifier": "40000596XXX",
       "Claim_Response_Outcome": "A",
@@ -2966,12 +2966,12 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 223.4,
-      "Claim_Item_Net": 67.02,
-      "Claim_Response_Item_Adjudication_Value": 156.38
+      "Claim_Response_Item_Adjudication_Amount": 67.02,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 156.38
     },
     {
-      "Organization_Identifier": 1,
-      "Organization_Name": "AXXXS",
+      "Claim_Insurer_Organization_Identifier": 1,
+      "Claim_Insurer_Organization_Name": "AXXXS",
       "Claim_Patient_Identifier": "1-10724XXX-10-1",
       "Claim_Encounter_Identifier": "40000596XXX",
       "Claim_Response_Outcome": "A",
@@ -2981,7 +2981,7 @@
       "Claim_Item_ServicedDate": "2018-09-17 00:00:00",
       "Claim_Item_Quantity": 1,
       "Claim_Item_UnitPrice": 392.82,
-      "Claim_Item_Net": 196.41,
-      "Claim_Response_Item_Adjudication_Value": 196.41
+      "Claim_Response_Item_Adjudication_Amount": 196.41,
+      "Claim_Response_Item_Adjudication_Amount_Copay": 196.41
     }
   ]

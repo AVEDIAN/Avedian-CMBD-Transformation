@@ -1,7 +1,7 @@
 [
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -15,11 +15,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 122892,
     "Claim_Item_Net": 289586,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -33,11 +33,11 @@
     "Claim_Item_Quantity": 14,
     "Claim_Item_UnitPrice": 112154,
     "Claim_Item_Net": 200998,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -51,11 +51,11 @@
     "Claim_Item_Quantity": 81,
     "Claim_Item_UnitPrice": 88597,
     "Claim_Item_Net": 355266,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -69,11 +69,11 @@
     "Claim_Item_Quantity": 89,
     "Claim_Item_UnitPrice": 979,
     "Claim_Item_Net": 9879,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -87,11 +87,11 @@
     "Claim_Item_Quantity": 124,
     "Claim_Item_UnitPrice": 95728,
     "Claim_Item_Net": 236344,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -105,11 +105,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 429,
     "Claim_Item_Net": 3632,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -123,11 +123,11 @@
     "Claim_Item_Quantity": 15,
     "Claim_Item_UnitPrice": 69435,
     "Claim_Item_Net": 124980,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -141,11 +141,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 131383,
     "Claim_Item_Net": 236934,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -159,11 +159,11 @@
     "Claim_Item_Quantity": 94,
     "Claim_Item_UnitPrice": 1410,
     "Claim_Item_Net": 238008,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -177,11 +177,11 @@
     "Claim_Item_Quantity": 16,
     "Claim_Item_UnitPrice": 512,
     "Claim_Item_Net": 4480,
-    "Claim_Response_Item_Adjudication_Value": "b"
+    "Claim_Response_Item_Adjudication_Amount": "b"
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -195,11 +195,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 504,
     "Claim_Item_Net": 2708,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -213,11 +213,11 @@
     "Claim_Item_Quantity": 35,
     "Claim_Item_UnitPrice": 1890,
     "Claim_Item_Net": 110950,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -231,11 +231,11 @@
     "Claim_Item_Quantity": 16,
     "Claim_Item_UnitPrice": 45744,
     "Claim_Item_Net": 81984,
-    "Claim_Response_Item_Adjudication_Value": "a"
+    "Claim_Response_Item_Adjudication_Amount": "a"
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -249,11 +249,11 @@
     "Claim_Item_Quantity": 40,
     "Claim_Item_UnitPrice": 1481,
     "Claim_Item_Net": 23840,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -267,11 +267,11 @@
     "Claim_Item_Quantity": 46,
     "Claim_Item_UnitPrice": 1149,
     "Claim_Item_Net": 16928,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -285,11 +285,11 @@
     "Claim_Item_Quantity": 44,
     "Claim_Item_UnitPrice": 5868,
     "Claim_Item_Net": 34144,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -303,11 +303,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 132692.52,
     "Claim_Item_Net": 101292,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -321,11 +321,11 @@
     "Claim_Item_Quantity": 23,
     "Claim_Item_UnitPrice": 2001,
     "Claim_Item_Net": 12236,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -339,11 +339,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 90403.11,
     "Claim_Item_Net": 75969,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -357,11 +357,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 2208,
     "Claim_Item_Net": 3641,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -375,11 +375,11 @@
     "Claim_Item_Quantity": 19,
     "Claim_Item_UnitPrice": 26600,
     "Claim_Item_Net": 108889,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -393,11 +393,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 1161,
     "Claim_Item_Net": 1134,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -411,11 +411,11 @@
     "Claim_Item_Quantity": 8,
     "Claim_Item_UnitPrice": 17912,
     "Claim_Item_Net": 32096,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -429,11 +429,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 51251,
     "Claim_Item_Net": 51251,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -447,11 +447,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 17665,
     "Claim_Item_Net": 31665,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -465,11 +465,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 2426,
     "Claim_Item_Net": 36102,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -483,11 +483,11 @@
     "Claim_Item_Quantity": 50,
     "Claim_Item_UnitPrice": 155029,
     "Claim_Item_Net": 866200,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -501,11 +501,11 @@
     "Claim_Item_Quantity": 33,
     "Claim_Item_UnitPrice": 28405,
     "Claim_Item_Net": 579117,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -519,11 +519,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 6517,
     "Claim_Item_Net": 11680,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -537,11 +537,11 @@
     "Claim_Item_Quantity": 14,
     "Claim_Item_UnitPrice": 20163,
     "Claim_Item_Net": 21546,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -555,11 +555,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 20251,
     "Claim_Item_Net": 102850,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -573,11 +573,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 291,
     "Claim_Item_Net": 6165,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -591,11 +591,11 @@
     "Claim_Item_Quantity": 276,
     "Claim_Item_UnitPrice": 35361,
     "Claim_Item_Net": 257232,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -609,11 +609,11 @@
     "Claim_Item_Quantity": 27,
     "Claim_Item_UnitPrice": 322667,
     "Claim_Item_Net": 1784835,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -627,11 +627,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 19600,
     "Claim_Item_Net": 35125,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -645,11 +645,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 29310,
     "Claim_Item_Net": 52530,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -663,11 +663,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 2952,
     "Claim_Item_Net": 5291,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -681,11 +681,11 @@
     "Claim_Item_Quantity": 30,
     "Claim_Item_UnitPrice": 162403,
     "Claim_Item_Net": 282510,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -699,11 +699,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 9347,
     "Claim_Item_Net": 142402,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -717,11 +717,11 @@
     "Claim_Item_Quantity": 55,
     "Claim_Item_UnitPrice": 1375,
     "Claim_Item_Net": 11550,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -735,11 +735,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 1032,
     "Claim_Item_Net": 11256,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -753,11 +753,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 163800,
     "Claim_Item_Net": 178636,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -771,11 +771,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 8584,
     "Claim_Item_Net": 12804,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -789,11 +789,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 61732,
     "Claim_Item_Net": 7396,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -807,11 +807,11 @@
     "Claim_Item_Quantity": 16,
     "Claim_Item_UnitPrice": 104464,
     "Claim_Item_Net": 187216,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -825,11 +825,11 @@
     "Claim_Item_Quantity": 51,
     "Claim_Item_UnitPrice": 1666000.17,
     "Claim_Item_Net": 1291473,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -843,11 +843,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 39000,
     "Claim_Item_Net": 115200,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -861,11 +861,11 @@
     "Claim_Item_Quantity": 16,
     "Claim_Item_UnitPrice": 38624,
     "Claim_Item_Net": 69232,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -879,11 +879,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 8280,
     "Claim_Item_Net": 15345,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -897,11 +897,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 10221,
     "Claim_Item_Net": 20382,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -915,11 +915,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 9656,
     "Claim_Item_Net": 17308,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -933,11 +933,11 @@
     "Claim_Item_Quantity": 52,
     "Claim_Item_UnitPrice": 58244,
     "Claim_Item_Net": 209976,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -951,11 +951,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 22560.81,
     "Claim_Item_Net": 17489,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -969,11 +969,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 17056,
     "Claim_Item_Net": 18178,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -987,11 +987,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 15707.088,
     "Claim_Item_Net": 19062,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1005,11 +1005,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 23284,
     "Claim_Item_Net": 41730,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1023,11 +1023,11 @@
     "Claim_Item_Quantity": 6,
     "Claim_Item_UnitPrice": 4974,
     "Claim_Item_Net": 11910,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1041,11 +1041,11 @@
     "Claim_Item_Quantity": 7,
     "Claim_Item_UnitPrice": 133,
     "Claim_Item_Net": 1449,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1059,11 +1059,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 4060,
     "Claim_Item_Net": 4800,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1077,11 +1077,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 1224,
     "Claim_Item_Net": 1324,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1095,11 +1095,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 14840,
     "Claim_Item_Net": 26595,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1113,11 +1113,11 @@
     "Claim_Item_Quantity": 18,
     "Claim_Item_UnitPrice": 16560,
     "Claim_Item_Net": 36216,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1131,11 +1131,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 6496,
     "Claim_Item_Net": 20506,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1149,11 +1149,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 315,
     "Claim_Item_Net": 2970,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1167,11 +1167,11 @@
     "Claim_Item_Quantity": 13,
     "Claim_Item_UnitPrice": 4073,
     "Claim_Item_Net": 24687,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1185,11 +1185,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 415,
     "Claim_Item_Net": 45110,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1203,11 +1203,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 3303,
     "Claim_Item_Net": 12210,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1221,11 +1221,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 2070,
     "Claim_Item_Net": 18777,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1239,11 +1239,11 @@
     "Claim_Item_Quantity": 6,
     "Claim_Item_UnitPrice": 222,
     "Claim_Item_Net": 3006,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1257,11 +1257,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 105746,
     "Claim_Item_Net": 295848,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1275,11 +1275,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 87018.99,
     "Claim_Item_Net": 153794,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1293,11 +1293,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 5382,
     "Claim_Item_Net": 9646,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1311,11 +1311,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 60,
     "Claim_Item_Net": 592,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1329,11 +1329,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 13800,
     "Claim_Item_Net": 5872,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1347,11 +1347,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 720,
     "Claim_Item_Net": 6900,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1365,11 +1365,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 115532,
     "Claim_Item_Net": 144415,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1383,11 +1383,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 192,
     "Claim_Item_Net": 4264,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1401,11 +1401,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 42941,
     "Claim_Item_Net": 36250,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1419,11 +1419,11 @@
     "Claim_Item_Quantity": 22,
     "Claim_Item_UnitPrice": 3322,
     "Claim_Item_Net": 37840,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1437,11 +1437,11 @@
     "Claim_Item_Quantity": 6,
     "Claim_Item_UnitPrice": 104750.4,
     "Claim_Item_Net": 130938,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1455,11 +1455,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 353816.79,
     "Claim_Item_Net": 619231,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1473,11 +1473,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 23108,
     "Claim_Item_Net": 41416,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1491,11 +1491,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 13269,
     "Claim_Item_Net": 35372,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1509,11 +1509,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 43279.5,
     "Claim_Item_Net": 100650,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1527,11 +1527,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 2025,
     "Claim_Item_Net": 10095,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1545,11 +1545,11 @@
     "Claim_Item_Quantity": 13,
     "Claim_Item_UnitPrice": 116989,
     "Claim_Item_Net": 269035,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1563,11 +1563,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 76728.69,
     "Claim_Item_Net": 75969,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1581,11 +1581,11 @@
     "Claim_Item_Quantity": 7,
     "Claim_Item_UnitPrice": 5965,
     "Claim_Item_Net": 104433,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1599,11 +1599,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 12300,
     "Claim_Item_Net": 53223,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1617,11 +1617,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 408330.81,
     "Claim_Item_Net": 107739,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1635,11 +1635,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 23000,
     "Claim_Item_Net": 46316,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1653,11 +1653,11 @@
     "Claim_Item_Quantity": 8,
     "Claim_Item_UnitPrice": 7418,
     "Claim_Item_Net": 147328,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1671,11 +1671,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 66776.56,
     "Claim_Item_Net": 15602,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1689,11 +1689,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 1401,
     "Claim_Item_Net": 43955,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1707,11 +1707,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 14496,
     "Claim_Item_Net": 25983,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1725,11 +1725,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 36600,
     "Claim_Item_Net": 65600,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1743,11 +1743,11 @@
     "Claim_Item_Quantity": 10,
     "Claim_Item_UnitPrice": 13234,
     "Claim_Item_Net": 18490,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1761,11 +1761,11 @@
     "Claim_Item_Quantity": 133,
     "Claim_Item_UnitPrice": 1768,
     "Claim_Item_Net": 21147,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1779,11 +1779,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 174,
     "Claim_Item_Net": 1386,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1797,11 +1797,11 @@
     "Claim_Item_Quantity": 8,
     "Claim_Item_UnitPrice": 450,
     "Claim_Item_Net": 2656,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1815,11 +1815,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 15402,
     "Claim_Item_Net": 112270,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1833,11 +1833,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 17665,
     "Claim_Item_Net": 31665,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1851,11 +1851,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 47689,
     "Claim_Item_Net": 77734,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1869,11 +1869,11 @@
     "Claim_Item_Quantity": 45,
     "Claim_Item_UnitPrice": 50130,
     "Claim_Item_Net": 236430,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1887,11 +1887,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 151558.592,
     "Claim_Item_Net": 173408,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1905,11 +1905,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 2958,
     "Claim_Item_Net": 28518,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1923,11 +1923,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 2324,
     "Claim_Item_Net": 4166,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1941,11 +1941,11 @@
     "Claim_Item_Quantity": 10,
     "Claim_Item_UnitPrice": 2100,
     "Claim_Item_Net": 20530,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1959,11 +1959,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 0,
     "Claim_Item_Net": 55737,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1977,11 +1977,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 3681,
     "Claim_Item_Net": 8048,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -1995,11 +1995,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 8120,
     "Claim_Item_Net": 14820,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2013,11 +2013,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 17370,
     "Claim_Item_Net": 17370,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2031,11 +2031,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 437,
     "Claim_Item_Net": 2394,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2049,11 +2049,11 @@
     "Claim_Item_Quantity": 50,
     "Claim_Item_UnitPrice": 7000000,
     "Claim_Item_Net": 6134400,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2067,11 +2067,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 42500,
     "Claim_Item_Net": 15015,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2085,11 +2085,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 27782.93,
     "Claim_Item_Net": 23347,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2103,11 +2103,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 91753.71,
     "Claim_Item_Net": 70041,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2121,11 +2121,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 45798.4,
     "Claim_Item_Net": 57248,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2139,11 +2139,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 60235.26,
     "Claim_Item_Net": 46694,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2157,11 +2157,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 611,
     "Claim_Item_Net": 3190,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2175,11 +2175,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 33388.28,
     "Claim_Item_Net": 7801,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2193,11 +2193,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 8700,
     "Claim_Item_Net": 21733,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2211,11 +2211,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 13341,
     "Claim_Item_Net": 31299,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2229,11 +2229,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 6960,
     "Claim_Item_Net": 33872,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2247,11 +2247,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 7613,
     "Claim_Item_Net": 13644,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2265,11 +2265,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 1120,
     "Claim_Item_Net": 6304,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2283,11 +2283,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 75,
     "Claim_Item_Net": 1575,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2301,11 +2301,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 140000,
     "Claim_Item_Net": 90587,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2319,11 +2319,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 135,
     "Claim_Item_Net": 22788,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2337,11 +2337,11 @@
     "Claim_Item_Quantity": 71,
     "Claim_Item_UnitPrice": 9220,
     "Claim_Item_Net": 65533,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2355,11 +2355,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 75,
     "Claim_Item_Net": 185,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2373,11 +2373,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 52280.8,
     "Claim_Item_Net": 65351,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2391,11 +2391,11 @@
     "Claim_Item_Quantity": 10,
     "Claim_Item_UnitPrice": 1150,
     "Claim_Item_Net": 3270,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2409,11 +2409,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 300,
     "Claim_Item_Net": 1581,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2427,11 +2427,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 11724,
     "Claim_Item_Net": 20726,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2445,11 +2445,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 166962,
     "Claim_Item_Net": 166962,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2463,11 +2463,11 @@
     "Claim_Item_Quantity": 38,
     "Claim_Item_UnitPrice": 32680,
     "Claim_Item_Net": 1507498,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2481,11 +2481,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 1490,
     "Claim_Item_Net": 3443,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2499,11 +2499,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 15401,
     "Claim_Item_Net": 106168,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2517,11 +2517,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 14640,
     "Claim_Item_Net": 25884,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2535,11 +2535,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 1350,
     "Claim_Item_Net": 6668,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2553,11 +2553,11 @@
     "Claim_Item_Quantity": 15,
     "Claim_Item_UnitPrice": 3302,
     "Claim_Item_Net": 69015,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2571,11 +2571,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 2952,
     "Claim_Item_Net": 5220,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2589,11 +2589,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 137917.08,
     "Claim_Item_Net": 399724,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2607,11 +2607,11 @@
     "Claim_Item_Quantity": 23,
     "Claim_Item_UnitPrice": 25522,
     "Claim_Item_Net": 62146,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2625,11 +2625,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 3920,
     "Claim_Item_Net": 6929,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2643,11 +2643,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 987,
     "Claim_Item_Net": 9418,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2661,11 +2661,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 14508.27,
     "Claim_Item_Net": 23029,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2679,11 +2679,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 4200,
     "Claim_Item_Net": 17034,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2697,11 +2697,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 435,
     "Claim_Item_Net": 2635,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2715,11 +2715,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 148625.05,
     "Claim_Item_Net": 124895,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2733,11 +2733,11 @@
     "Claim_Item_Quantity": 49,
     "Claim_Item_UnitPrice": 7301,
     "Claim_Item_Net": 61299,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2751,11 +2751,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 182028,
     "Claim_Item_Net": 165480,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2769,11 +2769,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 4832,
     "Claim_Item_Net": 8543,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2787,11 +2787,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 117,
     "Claim_Item_Net": 423,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2805,11 +2805,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 47935.11,
     "Claim_Item_Net": 37159,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2823,11 +2823,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 1123,
     "Claim_Item_Net": 2013,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -2841,11 +2841,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 17134,
     "Claim_Item_Net": 17134,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2859,11 +2859,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 35880,
     "Claim_Item_Net": 54858,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2877,11 +2877,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 310,
     "Claim_Item_Net": 1595,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2895,11 +2895,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 50000,
     "Claim_Item_Net": 167154,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2913,11 +2913,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 0,
     "Claim_Item_Net": 26282,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2931,11 +2931,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 2846467.5,
     "Claim_Item_Net": 3795290,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 138722,
     "Claim_Encounter_Identifier": "138722-12",
     "Claim_Payee_Party": 26,
@@ -2949,11 +2949,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 11000,
     "Claim_Item_Net": 12412,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -2967,11 +2967,11 @@
     "Claim_Item_Quantity": 18,
     "Claim_Item_UnitPrice": 19995,
     "Claim_Item_Net": 72684,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -2985,11 +2985,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 2414,
     "Claim_Item_Net": 4327,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3003,11 +3003,11 @@
     "Claim_Item_Quantity": 10,
     "Claim_Item_UnitPrice": 148,
     "Claim_Item_Net": 1480,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3021,11 +3021,11 @@
     "Claim_Item_Quantity": 20,
     "Claim_Item_UnitPrice": 383,
     "Claim_Item_Net": 4140,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3039,11 +3039,11 @@
     "Claim_Item_Quantity": 6,
     "Claim_Item_UnitPrice": 5520,
     "Claim_Item_Net": 12072,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3057,11 +3057,11 @@
     "Claim_Item_Quantity": 7,
     "Claim_Item_UnitPrice": 53901,
     "Claim_Item_Net": 392945,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3075,11 +3075,11 @@
     "Claim_Item_Quantity": 14,
     "Claim_Item_UnitPrice": 198433,
     "Claim_Item_Net": 730688,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3093,11 +3093,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 5600,
     "Claim_Item_Net": 22924,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3111,11 +3111,11 @@
     "Claim_Item_Quantity": 11,
     "Claim_Item_UnitPrice": 121,
     "Claim_Item_Net": 1221,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3129,11 +3129,11 @@
     "Claim_Item_Quantity": 10,
     "Claim_Item_UnitPrice": 326666.7,
     "Claim_Item_Net": 253230,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3147,11 +3147,11 @@
     "Claim_Item_Quantity": 9,
     "Claim_Item_UnitPrice": 225,
     "Claim_Item_Net": 3312,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3165,11 +3165,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 22560.81,
     "Claim_Item_Net": 17489,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3183,11 +3183,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 5718,
     "Claim_Item_Net": 10248,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3201,11 +3201,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 2699,
     "Claim_Item_Net": 13460,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3219,11 +3219,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 19,
     "Claim_Item_Net": 450,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3237,11 +3237,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 9298,
     "Claim_Item_Net": 16664,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3255,11 +3255,11 @@
     "Claim_Item_Quantity": 5,
     "Claim_Item_UnitPrice": 40055,
     "Claim_Item_Net": 71785,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3273,11 +3273,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 47424,
     "Claim_Item_Net": 84998,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3291,11 +3291,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 13058,
     "Claim_Item_Net": 23402,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3309,11 +3309,11 @@
     "Claim_Item_Quantity": 3,
     "Claim_Item_UnitPrice": 940,
     "Claim_Item_Net": 5697,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3327,11 +3327,11 @@
     "Claim_Item_Quantity": 12,
     "Claim_Item_UnitPrice": 1536,
     "Claim_Item_Net": 11184,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3345,11 +3345,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 4551,
     "Claim_Item_Net": 8157,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3363,11 +3363,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 54278.4,
     "Claim_Item_Net": 7710,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3381,11 +3381,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 2952,
     "Claim_Item_Net": 5291,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3399,11 +3399,11 @@
     "Claim_Item_Quantity": 10,
     "Claim_Item_UnitPrice": 1400000,
     "Claim_Item_Net": 1226880,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3417,11 +3417,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 25502,
     "Claim_Item_Net": 45708,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3435,11 +3435,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 26382.11,
     "Claim_Item_Net": 23347,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 194751,
     "Claim_Encounter_Identifier": "194751-7",
     "Claim_Payee_Party": 26,
@@ -3453,11 +3453,11 @@
     "Claim_Item_Quantity": 4,
     "Claim_Item_UnitPrice": 348,
     "Claim_Item_Net": 2128,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3471,11 +3471,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 50554,
     "Claim_Item_Net": 50554,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3489,11 +3489,11 @@
     "Claim_Item_Quantity": 2,
     "Claim_Item_UnitPrice": 1840,
     "Claim_Item_Net": 3988,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3507,11 +3507,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 167000,
     "Claim_Item_Net": 227734,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3525,11 +3525,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 4060,
     "Claim_Item_Net": 7342,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3543,11 +3543,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 2968,
     "Claim_Item_Net": 5247,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3561,11 +3561,11 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 20528.69,
     "Claim_Item_Net": 17251,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   },
   {
-    "Organization_Identifier": 1,
-    "Organization_PartOf": 1,
+    "Claim_Encounter_ServiceProvider_Organization_Identifier": 1,
+    "Claim_Encounter_ServiceProvider_Organization_PartOf": 1,
     "Claim_Patient_Identifier": 136758,
     "Claim_Encounter_Identifier": "136758-8",
     "Claim_Payee_Party": "02",
@@ -3579,6 +3579,6 @@
     "Claim_Item_Quantity": 1,
     "Claim_Item_UnitPrice": 3533,
     "Claim_Item_Net": 6247,
-    "Claim_Response_Item_Adjudication_Value": 0
+    "Claim_Response_Item_Adjudication_Amount": 0
   }
 ]

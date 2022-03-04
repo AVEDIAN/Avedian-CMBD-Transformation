@@ -1,14 +1,15 @@
 [
   {
-    "Organization_Identifier": 1,
-    "Organization_Name": "text",
+    "Claim_Insurer_Organization_Identifier": 1,
+    "Claim_Insurer_Organization_Name": "text",
     "Claim_Patient_Identifier": "text",
+    "Claim_BillablePeriod": "1970-01",
     "Claim_Insurance_Coverage_Period_Start": "1970-01-01 00:00:00",
     "Claim_Insurance_Coverage_Period_End": "1970-01-01 00:00:00",
     "Claim_Patient_Name": "text",
     "Claim_Patient_Family": "text",
     "Claim_Patient_Identifier_Tax": "text",
-    "Claim_Patient_Identifier_NN": "text",
+    "Claim_Patient_Identifier_National": "text",
     "Claim_Patient_BirthDate": "1970-01-01 00:00:00",
     "Claim_Patient_Gender": "text",
     "Claim_Patient_Address_State": "text",
@@ -17,12 +18,9 @@
     "Claim_Patient_Address_City_Text": "text",
     "Claim_Insurance_Coverage_SubscriberId": "text",
     "Claim_Insurance_Coverage_Class_Name": "text",
-    "Claim_Payee_Type": "text",
-    "Claim_Total": 1.5,
-    "Claim_Encounter_Diagnosis_Condition_CM": "text",
-    "Claim_Encounter_ReasonReference_Identifier": "text",
-    "Claim_Encounter_ReasonReference_Identifier_Type": "text",
-    "Claim_Encounter_Diagnosis_Condition_OnSet": "1970-01-01 00:00:00",
-    "Claim_Encounter_Diagnosis_Condition_Abatement": "1970-01-01 00:00:00"
+    "Claim_Insurance_Coverage_Class_Type": "text",
+    "Claim_Insurance_Coverage_CostToBeneficiary": 1.5,
+    "Claim_Encounter_Diagnosis_Condition_Comorbidities": "text",
+    "Claim_Encounter_Diagnosis_Condition_OnSets": "text"
   }
 ]
