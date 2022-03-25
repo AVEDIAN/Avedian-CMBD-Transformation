@@ -10,7 +10,7 @@
 
 CMBD1 Format
 Organization_Identifier;Organization_PartOf;Encounter_Hospitalization_Origin_PartOf;Encounter_Hospitalization_Origin;Encounter_Hospitalization_Origin_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Subject_Patient_Birthdate;Encounter_Subject_Patient_Gender;Encounter_Period_Start;Encounter_Period_End;Encounter_ServiceType;Encounter_DischargeDisposition;Encounter_Diagnosis_Condition_Claim_Diagnosis_OnAdmission;Encounter_ReasonReference_Procedure_PerformedDateTime_Surgical;Encounter_ReasonReference_Procedure_Age_Surgical;Encounter_ReasonReference_Procedure_Age_Surgical_Ventilation;Encounter_EpisodeOfCare_CareManager_Team;Encounter_EpisodeOfCare_CareManager_Team_Qualification_Code;Encounter_EpisodeOfCare_Diagnosis_Condition_Severity;Claim_Total;Claim_Items_UnitPrice;Encounter_Class
-text;1;text;text;text;text;text;1970-01-01 00:00:00;text;1970-01-01 00:00:00;1970-01-01 00:00:00;1;1;text;1970-01-01 00:00:00;1.5;1.5;text;text;1;1.5;1.5;text
+text;1;text;text;text;text;text;1970-01-01T00:00:00;text;1970-01-01T00:00:00;1970-01-01T00:00:00;1;1;text;1970-01-01T00:00:00;1.5;1.5;text;text;1;1.5;1.5;text
 
 CMBD2 Format
 Organization_Identifier;Organization_PartOf;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Payee_Party;Claim_Payee_Party_Name;Claim_Insurance_Coverage_SubscriberId;Claim_Insurance_Coverage_Class_Name;Claim_Use;Claim_Insurance_Coverage_Type;Claim_Item_Net;Claim_Item_UnitPrice;Claim_Response_Item_Adjudication_Value

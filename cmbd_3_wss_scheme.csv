@@ -1,2 +1,2 @@
 Claim_Insurer_Organization_Identifier;Claim_Insurer_Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Response_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Response_Item_Adjudication_Amount;Claim_Response_Item_Adjudication_Amount_Copay
-1;text;text;text;text;text;text;text;1970-01-01 00:00:00;1.5;1.5;1.5;1.5
+1;text;text;text;text;text;text;text;1970-01-01T00:00:00;1.5;1.5;1.5;1.5

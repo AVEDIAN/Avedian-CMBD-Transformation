@@ -10,15 +10,15 @@
 
 CMBD1 Format
 Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Insurance_Coverage_Period_Start;Claim_Insurance_Coverage_Period_End;Claim_Patient_Name;Claim_Patient_Family;Claim_Patient_Identifier_Tax;Claim_Patient_Identifier_NN;Claim_Patient_BirthDate;Claim_Patient_Gender;Claim_Patient_Address_State;Claim_Patient_Address_State_Text;Claim_Patient_Address_City;Claim_Patient_Address_City_Text;Claim_Insurance_Coverage_SubscriberId;Claim_Insurance_Coverage_Class_Name;Claim_Payee_Type;Claim_Total;Claim_Encounter_Diagnosis_Condition_CM;Claim_Encounter_ReasonReference_Identifier;Claim_Encounter_ReasonReference_Identifier_Type;Claim_Encounter_Diagnosis_Condition_OnSets;Claim_Encounter_Diagnosis_Condition_Abatement
-1;text;text;1970-01-01 00:00:00;1970-01-01 00:00:00;text;text;text;text;1970-01-01 00:00:00;text;text;text;text;text;text;text;text;1.5;text;text;text;1970-01-01 00:00:00;1970-01-01 00:00:00
+1;text;text;1970-01-01T00:00:00;1970-01-01T00:00:00;text;text;text;text;1970-01-01T00:00:00;text;text;text;text;text;text;text;text;1.5;text;text;text;1970-01-01T00:00:00;1970-01-01T00:00:00
 
 CMBD2 Format
 Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Insurance_PreAuthRef;Claim_Response_Payment_Identifier;Claim_Encounter_Class;Claim_Provider_Identifier;Claim_Provider_Name;Claim_CareTeam_Provider_Identifier_Responsible;Claim_CareTeam_Provider_Name_Responsible;Claim_CareTeam_Provider_Identifier_Prescribing;Claim_CareTeam_Provider_Name_Prescribing;Claim_Encounter_Period_Start;Claim_Encounter_Period_End;Claim_Accident_Type;Claim_Encounter_ServiceType;Claim_Encounter_DischargeDisposition;Claim_Diagnosis_OnAdmission;Claim_Procedure_PerformedDateTime_Surgical;Claim_Procedure_Age_Surgical;Claim_Procedure_Age_Surgical_Ventilation;Claim_Item_Net;Claim_Items_UnitPrice;Claim_Response_Item_Adjudication_Value
-1;text;text;text;text;text;1;text;text;text;text;text;text;1970-01-01 00:00:00;1970-01-01 00:00:00;1;1;1;text;1970-01-01 00:00:00;1.5;1.5;1.5;1.5;1.5
+1;text;text;text;text;text;1;text;text;text;text;text;text;1970-01-01T00:00:00;1970-01-01T00:00:00;1;1;1;text;1970-01-01T00:00:00;1.5;1.5;1.5;1.5;1.5
 
 CMBD3 Format 
 Organization_Identifier;Organization_Name;Claim_Patient_Identifier;Claim_Encounter_Identifier;Claim_Response_Outcome;Claim_Insurance_PreAuthRef;Claim_Item_ProductOrService;Claim_Item_ProductOrService_Text;Claim_Item_ServicedDate;Claim_Item_Quantity;Claim_Item_UnitPrice;Claim_Item_Net;Claim_Response_Item_Adjudication_Value
-1;text;text;text;text;text;text;text;1970-01-01 00:00:00;1.5;1.5;1.5;1.5
+1;text;text;text;text;text;text;text;1970-01-01T00:00:00;1.5;1.5;1.5;1.5
 
 CMBD4 Format
 Organization_Identifier;Organization_Name;Encounter_Subject_Patient_Identifier;Encounter_Identifier;Encounter_Diagnosis_Note;Encounter_Procedure_Note;Encounter_EpisodeOfCare_Text;Encounter_EpisodeOfCare_Format
