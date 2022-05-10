@@ -22,6 +22,6 @@
     "Encounter_EpisodeOfCare_Diagnosis_Condition_Severity": 1,
     "Encounter_Claims_Total": 1.5,
     "Encounter_Claims_Items_Net": 1.5,
-    "Encounter_Class": "text"
+    "Encounter_Class": 1
   }
 ]
